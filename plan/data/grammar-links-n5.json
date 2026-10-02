@@ -1,0 +1,761 @@
+{
+ "level": "N5",
+ "items": {
+  "n5-001": {
+   "jp": "だ / です",
+   "romaji": "da / desu",
+   "en": "Copula: is / am / are (plain-polite)",
+   "slug": "daijoubu-meaning-japanese",
+   "title": "大丈夫 (daijoubu): the word that means yes, no, and \"are you okay?",
+   "url": "https://www.animesenseijp.com/blog/daijoubu-meaning-japanese/",
+   "articles": 208
+  },
+  "n5-069": {
+   "jp": "ている",
+   "romaji": "te iru",
+   "en": "Ongoing / state (te iru)",
+   "slug": "talking-about-your-job-in-japanese",
+   "title": "Talking about your job in Japanese, the one particle that trips everyone",
+   "url": "https://www.animesenseijp.com/blog/talking-about-your-job-in-japanese/",
+   "articles": 119
+  },
+  "n5-022": {
+   "jp": "から",
+   "romaji": "kara",
+   "en": "Because; from",
+   "slug": "te-kara-grammar-after-doing",
+   "title": "〜てから: \"after doing,\" and why 食べたから means something completely different",
+   "url": "https://www.animesenseijp.com/blog/te-kara-grammar-after-doing/",
+   "articles": 78
+  },
+  "n5-071": {
+   "jp": "てください",
+   "romaji": "te kudasai",
+   "en": "Please do",
+   "slug": "te-kudasai-making-requests-japanese",
+   "title": "〜てください: polite, but not as polite as you think",
+   "url": "https://www.animesenseijp.com/blog/te-kudasai-making-requests-japanese/",
+   "articles": 77
+  },
+  "n5-034": {
+   "jp": "もう",
+   "romaji": "mou",
+   "en": "Already; more",
+   "slug": "already-still-in-japanese-mou-mada",
+   "title": "Already and still in Japanese: もう vs まだ, and the negative that flips both",
+   "url": "https://www.animesenseijp.com/blog/already-still-in-japanese-mou-mada/",
+   "articles": 71
+  },
+  "n5-011": {
+   "jp": "があります",
+   "romaji": "ga arimasu",
+   "en": "There is (inanimate)",
+   "slug": "aru-vs-iru-japanese",
+   "title": "What Is the Difference Between ある and いる in Japanese?",
+   "url": "https://www.animesenseijp.com/blog/aru-vs-iru-japanese/",
+   "articles": 60
+  },
+  "n5-037": {
+   "jp": "ないで",
+   "romaji": "naide",
+   "en": "Without doing",
+   "slug": "janakute-japanese-grammar",
+   "title": "〜じゃなくて: how to say \"not this, but that",
+   "url": "https://www.animesenseijp.com/blog/janakute-japanese-grammar/",
+   "articles": 59
+  },
+  "n5-044": {
+   "jp": "なる",
+   "romaji": "naru",
+   "en": "Become",
+   "slug": "ku-naru-ni-naru-become-japanese",
+   "title": "〜くなる and 〜になる: how Japanese says \"become",
+   "url": "https://www.animesenseijp.com/blog/ku-naru-ni-naru-become-japanese/",
+   "articles": 51
+  },
+  "n5-066": {
+   "jp": "たい",
+   "romaji": "tai",
+   "en": "Want to do",
+   "slug": "hoshii-vs-tai",
+   "title": "ほしい vs たい: wanting a thing, wanting to do, and wanting someone else to",
+   "url": "https://www.animesenseijp.com/blog/hoshii-vs-tai/",
+   "articles": 47
+  },
+  "n5-045": {
+   "jp": "んです",
+   "romaji": "ndesu",
+   "en": "Explanatory 'n desu'",
+   "slug": "hoshii-vs-tai",
+   "title": "ほしい vs たい: wanting a thing, wanting to do, and wanting someone else to",
+   "url": "https://www.animesenseijp.com/blog/hoshii-vs-tai/",
+   "articles": 38
+  },
+  "n5-024": {
+   "jp": "けど",
+   "romaji": "kedo",
+   "en": "But; although (casual)",
+   "slug": "hoshii-vs-tai",
+   "title": "ほしい vs たい: wanting a thing, wanting to do, and wanting someone else to",
+   "url": "https://www.animesenseijp.com/blog/hoshii-vs-tai/",
+   "articles": 35
+  },
+  "n5-057": {
+   "jp": "ので",
+   "romaji": "node",
+   "en": "Because (node)",
+   "slug": "different-in-japanese-chigau-betsu",
+   "title": "Different in Japanese: 違う is a verb, and 同じ breaks the な rule",
+   "url": "https://www.animesenseijp.com/blog/different-in-japanese-chigau-betsu/",
+   "articles": 34
+  },
+  "n5-019": {
+   "jp": "じゃない・ではない",
+   "romaji": "janai / dewa nai",
+   "en": "Negative copula: is not",
+   "slug": "janakute-japanese-grammar",
+   "title": "〜じゃなくて: how to say \"not this, but that",
+   "url": "https://www.animesenseijp.com/blog/janakute-japanese-grammar/",
+   "articles": 32
+  },
+  "n5-028": {
+   "jp": "まで",
+   "romaji": "made",
+   "en": "Until",
+   "slug": "kara-made-from-to-japanese",
+   "title": "〜から〜まで: \"from\" and \"to,\" and the one extra syllable that changes everything",
+   "url": "https://www.animesenseijp.com/blog/kara-made-from-to-japanese/",
+   "articles": 31
+  },
+  "n5-002": {
+   "jp": "だけ",
+   "romaji": "dake",
+   "en": "Only, just",
+   "slug": "te-kudasai-making-requests-japanese",
+   "title": "〜てください: polite, but not as polite as you think",
+   "url": "https://www.animesenseijp.com/blog/te-kudasai-making-requests-japanese/",
+   "articles": 30
+  },
+  "n5-049": {
+   "jp": "にする",
+   "romaji": "ni suru",
+   "en": "Decide on (ni suru)",
+   "slug": "japanese-words-for-beautiful",
+   "title": "Japanese words for beautiful: きれい, 美しい, かわいい and what each one claims",
+   "url": "https://www.animesenseijp.com/blog/japanese-words-for-beautiful/",
+   "articles": 29
+  },
+  "n5-073": {
+   "jp": "てもいいです",
+   "romaji": "temo ii desu",
+   "en": "It's OK to; may I",
+   "slug": "te-mo-ii-desu-ka-asking-permission",
+   "title": "Te mo ii desu ka: how do you ask \"can I\" in Japanese?",
+   "url": "https://www.animesenseijp.com/blog/te-mo-ii-desu-ka-asking-permission/",
+   "articles": 28
+  },
+  "n5-031": {
+   "jp": "ましょう",
+   "romaji": "mashou",
+   "en": "Let's...",
+   "slug": "mashou-grammar-lets-shall-i",
+   "title": "ましょう, ましょうか, ませんか: \"let''s\", \"shall I\", and the invitation ladder",
+   "url": "https://www.animesenseijp.com/blog/mashou-grammar-lets-shall-i/",
+   "articles": 21
+  },
+  "n5-006": {
+   "jp": "でしょう",
+   "romaji": "deshou",
+   "en": "Probably; right? (polite)",
+   "slug": "te-mo-ii-desu-ka-asking-permission",
+   "title": "Te mo ii desu ka: how do you ask \"can I\" in Japanese?",
+   "url": "https://www.animesenseijp.com/blog/te-mo-ii-desu-ka-asking-permission/",
+   "articles": 18
+  },
+  "n5-064": {
+   "jp": "すぎる",
+   "romaji": "sugiru",
+   "en": "Too much",
+   "slug": "how-to-say-expensive-in-japanese",
+   "title": "How Do You Say \"Expensive\" in Japanese? 高い, and How to Soften It",
+   "url": "https://www.animesenseijp.com/blog/how-to-say-expensive-in-japanese/",
+   "articles": 18
+  },
+  "n5-026": {
+   "jp": "まだ",
+   "romaji": "mada",
+   "en": "Still; not yet",
+   "slug": "already-still-in-japanese-mou-mada",
+   "title": "Already and still in Japanese: もう vs まだ, and the negative that flips both",
+   "url": "https://www.animesenseijp.com/blog/already-still-in-japanese-mou-mada/",
+   "articles": 15
+  },
+  "n5-038": {
+   "jp": "ないでください",
+   "romaji": "naide kudasai",
+   "en": "Please don't",
+   "slug": "te-wa-ikemasen-prohibition",
+   "title": "てはいけません: how strong is \"you must not\" in Japanese?",
+   "url": "https://www.animesenseijp.com/blog/te-wa-ikemasen-prohibition/",
+   "articles": 13
+  },
+  "n5-018": {
+   "jp": "いつも",
+   "romaji": "itsumo",
+   "en": "Always",
+   "slug": "japanese-frequency-adverbs",
+   "title": "What Are Japanese Frequency Adverbs? いつも, よく, ときどき and More",
+   "url": "https://www.animesenseijp.com/blog/japanese-frequency-adverbs/",
+   "articles": 12
+  },
+  "n5-023": {
+   "jp": "方（かた）",
+   "romaji": "kata",
+   "en": "Way of doing (stem + kata)",
+   "slug": "how-to-ask-someone-to-repeat-in-japanese",
+   "title": "How Do You Ask Someone to Repeat in Japanese? もう一度お願いします",
+   "url": "https://www.animesenseijp.com/blog/how-to-ask-someone-to-repeat-in-japanese/",
+   "articles": 11
+  },
+  "n5-052": {
+   "jp": "のです",
+   "romaji": "no desu",
+   "en": "Explanatory 'no desu'",
+   "slug": "no-particle-japanese",
+   "title": "The particle の: five jobs, and only one of them is \"of",
+   "url": "https://www.animesenseijp.com/blog/no-particle-japanese/",
+   "articles": 11
+  },
+  "n5-007": {
+   "jp": "どんな",
+   "romaji": "donna",
+   "en": "What kind of",
+   "slug": "japanese-question-words-nani-doko-itsu",
+   "title": "What Are Japanese Question Words? 何, どこ, いつ and More",
+   "url": "https://www.animesenseijp.com/blog/japanese-question-words-nani-doko-itsu/",
+   "articles": 10
+  },
+  "n5-013": {
+   "jp": "がいます",
+   "romaji": "ga imasu",
+   "en": "There is (living things)",
+   "slug": "aru-vs-iru-japanese",
+   "title": "What Is the Difference Between ある and いる in Japanese?",
+   "url": "https://www.animesenseijp.com/blog/aru-vs-iru-japanese/",
+   "articles": 10
+  },
+  "n5-030": {
+   "jp": "ませんか",
+   "romaji": "masen ka",
+   "en": "Won't you...? (invitation)",
+   "slug": "mashou-grammar-lets-shall-i",
+   "title": "ましょう, ましょうか, ませんか: \"let''s\", \"shall I\", and the invitation ladder",
+   "url": "https://www.animesenseijp.com/blog/mashou-grammar-lets-shall-i/",
+   "articles": 10
+  },
+  "n5-016": {
+   "jp": "一番（いちばん）",
+   "romaji": "ichiban",
+   "en": "Most; number one",
+   "slug": "japanese-superlative-ichiban",
+   "title": "Japanese superlatives: 一番, 最も, and the の中で that makes them work",
+   "url": "https://www.animesenseijp.com/blog/japanese-superlative-ichiban/",
+   "articles": 9
+  },
+  "n5-040": {
+   "jp": "なくてもいい",
+   "romaji": "naku temo ii",
+   "en": "Don't have to",
+   "slug": "te-mo-ii-desu-ka-asking-permission",
+   "title": "Te mo ii desu ka: how do you ask \"can I\" in Japanese?",
+   "url": "https://www.animesenseijp.com/blog/te-mo-ii-desu-ka-asking-permission/",
+   "articles": 9
+  },
+  "n5-060": {
+   "jp": "をください",
+   "romaji": "o kudasai",
+   "en": "Please give me",
+   "slug": "te-kudasai-making-requests-japanese",
+   "title": "〜てください: polite, but not as polite as you think",
+   "url": "https://www.animesenseijp.com/blog/te-kudasai-making-requests-japanese/",
+   "articles": 9
+  },
+  "n5-065": {
+   "jp": "たことがある",
+   "romaji": "ta koto ga aru",
+   "en": "Have done before",
+   "slug": "japanese-past-tense-mashita-ta",
+   "title": "Japanese past tense: 〜ました, 〜た, and the form that is not about the past",
+   "url": "https://www.animesenseijp.com/blog/japanese-past-tense-mashita-ta/",
+   "articles": 9
+  },
+  "n5-070": {
+   "jp": "てから",
+   "romaji": "te kara",
+   "en": "After doing",
+   "slug": "te-kara-grammar-after-doing",
+   "title": "〜てから: \"after doing,\" and why 食べたから means something completely different",
+   "url": "https://www.animesenseijp.com/blog/te-kara-grammar-after-doing/",
+   "articles": 9
+  },
+  "n5-076": {
+   "jp": "とても",
+   "romaji": "totemo",
+   "en": "Very",
+   "slug": "how-to-say-a-lot-in-japanese",
+   "title": "A Lot in Japanese: たくさん vs いっぱい, noun-rule catch",
+   "url": "https://www.animesenseijp.com/blog/how-to-say-a-lot-in-japanese/",
+   "articles": 9
+  },
+  "n5-005": {
+   "jp": "でも",
+   "romaji": "demo",
+   "en": "Sentence-initial 'but / still'",
+   "slug": "question-word-mo-negative-japanese",
+   "title": "How Do You Say \"Nothing\" in Japanese? 何も + Negative Verb",
+   "url": "https://www.animesenseijp.com/blog/question-word-mo-negative-japanese/",
+   "articles": 8
+  },
+  "n5-017": {
+   "jp": "一緒に（いっしょに）",
+   "romaji": "issho ni",
+   "en": "Together",
+   "slug": "mashou-grammar-lets-shall-i",
+   "title": "ましょう, ましょうか, ませんか: \"let''s\", \"shall I\", and the invitation ladder",
+   "url": "https://www.animesenseijp.com/blog/mashou-grammar-lets-shall-i/",
+   "articles": 8
+  },
+  "n5-048": {
+   "jp": "に行く（にいく）",
+   "romaji": "ni iku",
+   "en": "Go in order to do",
+   "slug": "next-in-japanese-tsugi-kondo",
+   "title": "Next in Japanese: 次, 今度, 来週, and the 今度 that can mean \"this",
+   "url": "https://www.animesenseijp.com/blog/next-in-japanese-tsugi-kondo/",
+   "articles": 8
+  },
+  "n5-072": {
+   "jp": "てはいけない",
+   "romaji": "te wa ikenai",
+   "en": "Must not",
+   "slug": "te-wa-ikemasen-prohibition",
+   "title": "てはいけません: how strong is \"you must not\" in Japanese?",
+   "url": "https://www.animesenseijp.com/blog/te-wa-ikemasen-prohibition/",
+   "articles": 8
+  },
+  "n5-014": {
+   "jp": "ほうがいい",
+   "romaji": "hou ga ii",
+   "en": "Had better; it is better to",
+   "slug": "japanese-past-tense-mashita-ta",
+   "title": "Japanese past tense: 〜ました, 〜た, and the form that is not about the past",
+   "url": "https://www.animesenseijp.com/blog/japanese-past-tense-mashita-ta/",
+   "articles": 7
+  },
+  "n5-067": {
+   "jp": "たり～たり",
+   "romaji": "tari~tari",
+   "en": "Do things like A and B",
+   "slug": "asking-directions-in-japanese",
+   "title": "Asking for directions in Japanese: 一番近い駅, and the four words in the answer",
+   "url": "https://www.animesenseijp.com/blog/asking-directions-in-japanese/",
+   "articles": 7
+  },
+  "n5-027": {
+   "jp": "まだ～ていません",
+   "romaji": "mada ~te imasen",
+   "en": "Haven't done yet",
+   "slug": "already-still-in-japanese-mou-mada",
+   "title": "Already and still in Japanese: もう vs まだ, and the negative that flips both",
+   "url": "https://www.animesenseijp.com/blog/already-still-in-japanese-mou-mada/",
+   "articles": 6
+  },
+  "n5-077": {
+   "jp": "つもり",
+   "romaji": "tsumori",
+   "en": "Intend to",
+   "slug": null,
+   "title": null,
+   "url": null,
+   "articles": 6
+  },
+  "n5-080": {
+   "jp": "はどうですか",
+   "romaji": "wa dou desu ka",
+   "en": "How about ...?",
+   "slug": "days-of-the-week-and-dates-in-japanese",
+   "title": "Days of the week and dates in Japanese, and the planets hiding in them",
+   "url": "https://www.animesenseijp.com/blog/days-of-the-week-and-dates-in-japanese/",
+   "articles": 6
+  },
+  "n5-008": {
+   "jp": "どうして",
+   "romaji": "doushite",
+   "en": "Why",
+   "slug": "japanese-question-words-nani-doko-itsu",
+   "title": "What Are Japanese Question Words? 何, どこ, いつ and More",
+   "url": "https://www.animesenseijp.com/blog/japanese-question-words-nani-doko-itsu/",
+   "articles": 5
+  },
+  "n5-032": {
+   "jp": "ましょうか",
+   "romaji": "mashouka",
+   "en": "Shall I...? (offer)",
+   "slug": "mashou-grammar-lets-shall-i",
+   "title": "ましょう, ましょうか, ませんか: \"let''s\", \"shall I\", and the invitation ladder",
+   "url": "https://www.animesenseijp.com/blog/mashou-grammar-lets-shall-i/",
+   "articles": 5
+  },
+  "n5-055": {
+   "jp": "のが好き（のがすき）",
+   "romaji": "no ga suki",
+   "en": "Like doing",
+   "slug": "japanese-hobbies-vocabulary",
+   "title": "Talking about hobbies in Japanese: 趣味は何ですか, and the answer that sounds natural",
+   "url": "https://www.animesenseijp.com/blog/japanese-hobbies-vocabulary/",
+   "articles": 5
+  },
+  "n5-075": {
+   "jp": "とき",
+   "romaji": "toki",
+   "en": "When",
+   "slug": "japanese-transportation-vocabulary",
+   "title": "Japanese transportation vocabulary: the words, and the particle that surprises everyone",
+   "url": "https://www.animesenseijp.com/blog/japanese-transportation-vocabulary/",
+   "articles": 5
+  },
+  "n5-029": {
+   "jp": "前に（まえに）",
+   "romaji": "mae ni",
+   "en": "Before doing",
+   "slug": "before-after-in-japanese-mae-ni-ato-de",
+   "title": "Before and after in Japanese: 〜前に takes the dictionary form, 〜後で takes た",
+   "url": "https://www.animesenseijp.com/blog/before-after-in-japanese-mae-ni-ato-de/",
+   "articles": 4
+  },
+  "n5-036": {
+   "jp": "なあ",
+   "romaji": "naa",
+   "en": "Exclamatory 'naa'",
+   "slug": null,
+   "title": null,
+   "url": null,
+   "articles": 4
+  },
+  "n5-061": {
+   "jp": "しかし",
+   "romaji": "shikashi",
+   "en": "However (sentence-initial)",
+   "slug": null,
+   "title": null,
+   "url": null,
+   "articles": 4
+  },
+  "n5-068": {
+   "jp": "てある",
+   "romaji": "te aru",
+   "en": "Resultant state (te aru)",
+   "slug": "how-do-you-say-in-japanese",
+   "title": "How do you say \"how do you say...?\" in Japanese?",
+   "url": "https://www.animesenseijp.com/blog/how-do-you-say-in-japanese/",
+   "articles": 4
+  },
+  "n5-083": {
+   "jp": "より～ほうが",
+   "romaji": "yori ~hou ga",
+   "en": "Compared to X, Y is more",
+   "slug": "yori-no-hou-ga-comparison-grammar",
+   "title": "〜より〜の方が: how comparisons actually work in Japanese",
+   "url": "https://www.animesenseijp.com/blog/yori-no-hou-ga-comparison-grammar/",
+   "articles": 4
+  },
+  "n5-000": {
+   "jp": "ちゃいけない・じゃいけない",
+   "romaji": "cha ikenai / ja ikenai",
+   "en": "Spoken form of 'must not do'",
+   "slug": "te-wa-ikemasen-prohibition",
+   "title": "てはいけません: how strong is \"you must not\" in Japanese?",
+   "url": "https://www.animesenseijp.com/blog/te-wa-ikemasen-prohibition/",
+   "articles": 3
+  },
+  "n5-012": {
+   "jp": "がほしい",
+   "romaji": "ga hoshii",
+   "en": "Want (a thing)",
+   "slug": "hoshii-vs-tai",
+   "title": "ほしい vs たい: wanting a thing, wanting to do, and wanting someone else to",
+   "url": "https://www.animesenseijp.com/blog/hoshii-vs-tai/",
+   "articles": 3
+  },
+  "n5-041": {
+   "jp": "なくちゃ",
+   "romaji": "nakucha",
+   "en": "Gotta (casual must)",
+   "slug": "ganbatte-meaning-japanese",
+   "title": "Ganbatte meaning: 頑張って, 頑張れ, and the one person you should not say it to",
+   "url": "https://www.animesenseijp.com/blog/ganbatte-meaning-japanese/",
+   "articles": 3
+  },
+  "n5-042": {
+   "jp": "なくてはいけない",
+   "romaji": "nakute wa ikenai",
+   "en": "Must; have to (nakute wa ikenai)",
+   "slug": "te-wa-ikemasen-prohibition",
+   "title": "てはいけません: how strong is \"you must not\" in Japanese?",
+   "url": "https://www.animesenseijp.com/blog/te-wa-ikemasen-prohibition/",
+   "articles": 3
+  },
+  "n5-079": {
+   "jp": "は〜より・・・です",
+   "romaji": "wa ~yori... desu",
+   "en": "A is more ... than B",
+   "slug": "yori-no-hou-ga-comparison-grammar",
+   "title": "〜より〜の方が: how comparisons actually work in Japanese",
+   "url": "https://www.animesenseijp.com/blog/yori-no-hou-ga-comparison-grammar/",
+   "articles": 3
+  },
+  "n5-009": {
+   "jp": "どうやって",
+   "romaji": "douyatte",
+   "en": "How (by what means)",
+   "slug": null,
+   "title": null,
+   "url": null,
+   "articles": 2
+  },
+  "n5-003": {
+   "jp": "だろう",
+   "romaji": "darou",
+   "en": "Probably; presumably (plain)",
+   "slug": null,
+   "title": null,
+   "url": null,
+   "articles": 1
+  },
+  "n5-021": {
+   "jp": "か～か",
+   "romaji": "ka~ka",
+   "en": "A or B (choice)",
+   "slug": null,
+   "title": null,
+   "url": null,
+   "articles": 1
+  },
+  "n5-025": {
+   "jp": "けれども",
+   "romaji": "keredo mo",
+   "en": "But; although (formal)",
+   "slug": null,
+   "title": null,
+   "url": null,
+   "articles": 1
+  },
+  "n5-039": {
+   "jp": "ないといけない",
+   "romaji": "naito ikenai",
+   "en": "Must do (naito ikenai)",
+   "slug": null,
+   "title": null,
+   "url": null,
+   "articles": 1
+  },
+  "n5-056": {
+   "jp": "の中で[A]が一番（のなかで[A]がいちばん）",
+   "romaji": "no naka de [A] ga ichiban",
+   "en": "Best among a group",
+   "slug": "japanese-superlative-ichiban",
+   "title": "Japanese superlatives: 一番, 最も, and the の中で that makes them work",
+   "url": "https://www.animesenseijp.com/blog/japanese-superlative-ichiban/",
+   "articles": 1
+  },
+  "n5-062": {
+   "jp": "それから",
+   "romaji": "sore kara",
+   "en": "And then; after that",
+   "slug": null,
+   "title": null,
+   "url": null,
+   "articles": 1
+  },
+  "n5-063": {
+   "jp": "そして",
+   "romaji": "soshite",
+   "en": "And; then",
+   "slug": null,
+   "title": null,
+   "url": null,
+   "articles": 1
+  },
+  "n5-004": {
+   "jp": "で",
+   "romaji": "de",
+   "en": "At / by / with (location or means)",
+   "slug": null,
+   "title": null,
+   "url": null,
+   "articles": 0
+  },
+  "n5-010": {
+   "jp": "が",
+   "romaji": "ga",
+   "en": "Subject marker; 'but'",
+   "slug": null,
+   "title": null,
+   "url": null,
+   "articles": 0
+  },
+  "n5-015": {
+   "jp": "い-adjectives",
+   "romaji": "i-adjectives",
+   "en": "I-adjective inflection",
+   "slug": null,
+   "title": null,
+   "url": null,
+   "articles": 0
+  },
+  "n5-020": {
+   "jp": "か",
+   "romaji": "ka",
+   "en": "Question marker",
+   "slug": null,
+   "title": null,
+   "url": null,
+   "articles": 0
+  },
+  "n5-033": {
+   "jp": "も",
+   "romaji": "mo",
+   "en": "Also; too",
+   "slug": null,
+   "title": null,
+   "url": null,
+   "articles": 0
+  },
+  "n5-035": {
+   "jp": "な-adjectives",
+   "romaji": "na-adjectives",
+   "en": "Na-adjective inflection",
+   "slug": null,
+   "title": null,
+   "url": null,
+   "articles": 0
+  },
+  "n5-043": {
+   "jp": "なくてはならない",
+   "romaji": "nakute wa naranai",
+   "en": "Must; need to (nakute wa naranai)",
+   "slug": null,
+   "title": null,
+   "url": null,
+   "articles": 0
+  },
+  "n5-046": {
+   "jp": "ね",
+   "romaji": "ne",
+   "en": "Sentence-final 'ne'",
+   "slug": null,
+   "title": null,
+   "url": null,
+   "articles": 0
+  },
+  "n5-047": {
+   "jp": "に",
+   "romaji": "ni",
+   "en": "Particle ni (place/time/target)",
+   "slug": null,
+   "title": null,
+   "url": null,
+   "articles": 0
+  },
+  "n5-050": {
+   "jp": "に/へ",
+   "romaji": "ni/e",
+   "en": "Ni / e (direction)",
+   "slug": null,
+   "title": null,
+   "url": null,
+   "articles": 0
+  },
+  "n5-051": {
+   "jp": "の",
+   "romaji": "no",
+   "en": "Possessive no",
+   "slug": null,
+   "title": null,
+   "url": null,
+   "articles": 0
+  },
+  "n5-053": {
+   "jp": "のが下手（のがへた）",
+   "romaji": "no ga heta",
+   "en": "Bad at doing",
+   "slug": null,
+   "title": null,
+   "url": null,
+   "articles": 0
+  },
+  "n5-054": {
+   "jp": "のが上手（のがじょうず）",
+   "romaji": "no ga jouzu",
+   "en": "Good at doing",
+   "slug": null,
+   "title": null,
+   "url": null,
+   "articles": 0
+  },
+  "n5-058": {
+   "jp": "お / ご",
+   "romaji": "o / go",
+   "en": "Polite prefix o- / go-",
+   "slug": null,
+   "title": null,
+   "url": null,
+   "articles": 0
+  },
+  "n5-059": {
+   "jp": "を",
+   "romaji": "o / wo",
+   "en": "Object marker",
+   "slug": null,
+   "title": null,
+   "url": null,
+   "articles": 0
+  },
+  "n5-074": {
+   "jp": "と",
+   "romaji": "to",
+   "en": "And / with / quotation",
+   "slug": null,
+   "title": null,
+   "url": null,
+   "articles": 0
+  },
+  "n5-078": {
+   "jp": "は",
+   "romaji": "wa - topic marker",
+   "en": "Topic marker",
+   "slug": null,
+   "title": null,
+   "url": null,
+   "articles": 0
+  },
+  "n5-081": {
+   "jp": "や",
+   "romaji": "ya",
+   "en": "Listing 'ya'",
+   "slug": null,
+   "title": null,
+   "url": null,
+   "articles": 0
+  },
+  "n5-082": {
+   "jp": "よ",
+   "romaji": "yo",
+   "en": "Sentence-final 'yo'",
+   "slug": null,
+   "title": null,
+   "url": null,
+   "articles": 0
+  }
+ }
+}

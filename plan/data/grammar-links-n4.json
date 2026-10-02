@@ -1,0 +1,1193 @@
+{
+ "level": "N4",
+ "items": {
+  "n4-152": {
+   "jp": "られる",
+   "romaji": "rareru",
+   "en": "Potential / passive -rareru",
+   "slug": "koto-ga-dekiru-potential-form",
+   "title": "ことができる vs the potential form: two ways to say \"I can\" in Japanese",
+   "url": "https://www.animesenseijp.com/blog/koto-ga-dekiru-potential-form/",
+   "articles": 39
+  },
+  "n4-100": {
+   "jp": "ございます",
+   "romaji": "gozaimasu",
+   "en": "Polite 'to be / exist'",
+   "slug": "how-to-say-you-will-be-late-in-japanese",
+   "title": "How to say you will be late in Japanese: the message matters more than the lateness",
+   "url": "https://www.animesenseijp.com/blog/how-to-say-you-will-be-late-in-japanese/",
+   "articles": 36
+  },
+  "n4-117": {
+   "jp": "こと",
+   "romaji": "koto",
+   "en": "Verb nominalizer koto",
+   "slug": "koto-ni-suru-vs-koto-ni-naru",
+   "title": "〜ことにする vs 〜ことになる: the decision you made, and the one that just happened to you",
+   "url": "https://www.animesenseijp.com/blog/koto-ni-suru-vs-koto-ni-naru/",
+   "articles": 31
+  },
+  "n4-171": {
+   "jp": "たら",
+   "romaji": "tara",
+   "en": "If / when (tara)",
+   "slug": "japanese-conditionals-tara-reba-to-nara",
+   "title": "What Are the Four Japanese Conditionals? と, ば, たら, なら",
+   "url": "https://www.animesenseijp.com/blog/japanese-conditionals-tara-reba-to-nara/",
+   "articles": 30
+  },
+  "n4-142": {
+   "jp": "にする",
+   "romaji": "ni suru",
+   "en": "Make something ~ (ni suru)",
+   "slug": "koto-ni-suru-vs-koto-ni-naru",
+   "title": "〜ことにする vs 〜ことになる: the decision you made, and the one that just happened to you",
+   "url": "https://www.animesenseijp.com/blog/koto-ni-suru-vs-koto-ni-naru/",
+   "articles": 29
+  },
+  "n4-202": {
+   "jp": "受身形（うけみけい）",
+   "romaji": "ukemi kei",
+   "en": "Passive form",
+   "slug": "japanese-passive-form-rareru",
+   "title": "The Japanese passive 〜られる: including the one that means \"and it annoyed me",
+   "url": "https://www.animesenseijp.com/blog/japanese-passive-form-rareru/",
+   "articles": 28
+  },
+  "n4-178": {
+   "jp": "ていた",
+   "romaji": "te ita",
+   "en": "Was doing (te ita)",
+   "slug": "nagara-grammar-while-doing",
+   "title": "〜ながら: \"while doing\", and why the second verb is the real one",
+   "url": "https://www.animesenseijp.com/blog/nagara-grammar-while-doing/",
+   "articles": 23
+  },
+  "n4-151": {
+   "jp": "終わる（おわる）",
+   "romaji": "owaru",
+   "en": "Finish doing",
+   "slug": "daitai-meaning-japanese",
+   "title": "だいたい: \"roughly\", \"mostly\", and the one that means \"in the first place",
+   "url": "https://www.animesenseijp.com/blog/daitai-meaning-japanese/",
+   "articles": 21
+  },
+  "n4-181": {
+   "jp": "てくる",
+   "romaji": "te kuru",
+   "en": "Come / become (te kuru)",
+   "slug": "you-ni-suru-grammar",
+   "title": "〜ようにする vs 〜ようになる: making an effort to, and ending up able to",
+   "url": "https://www.animesenseijp.com/blog/you-ni-suru-grammar/",
+   "articles": 20
+  },
+  "n4-190": {
+   "jp": "ても",
+   "romaji": "temo",
+   "en": "Even if (temo)",
+   "slug": "temo-grammar-even-if-japanese",
+   "title": "〜ても: \"even if\", and the question words that turn it into \"no matter what",
+   "url": "https://www.animesenseijp.com/blog/temo-grammar-even-if-japanese/",
+   "articles": 19
+  },
+  "n4-197": {
+   "jp": "と思う（とおもう）",
+   "romaji": "to omou",
+   "en": "I think that",
+   "slug": "probably-in-japanese-tabun-deshou",
+   "title": "Probably in Japanese: たぶん, でしょう, おそらく, and where きっと sits",
+   "url": "https://www.animesenseijp.com/blog/probably-in-japanese-tabun-deshou/",
+   "articles": 19
+  },
+  "n4-088": {
+   "jp": "ば",
+   "romaji": "ba",
+   "en": "If (ba conditional)",
+   "slug": "to-ieba-souieba-speaking-of",
+   "title": "と言えば and そういえば: how to say \"speaking of\" in Japanese",
+   "url": "https://www.animesenseijp.com/blog/to-ieba-souieba-speaking-of/",
+   "articles": 18
+  },
+  "n4-105": {
+   "jp": "意向形 （いこうけい）",
+   "romaji": "ikou kei - volitional form",
+   "en": "Volitional form",
+   "slug": "you-to-suru-vs-te-miru",
+   "title": "ようとする vs てみる: two ways to say \"try\" in Japanese",
+   "url": "https://www.animesenseijp.com/blog/you-to-suru-vs-te-miru/",
+   "articles": 18
+  },
+  "n4-122": {
+   "jp": "くする",
+   "romaji": "ku suru",
+   "en": "Make something ~ (ku suru)",
+   "slug": "te-shimau-chatta-grammar",
+   "title": "てしまう and ちゃった: the grammar of \"oops, I did it",
+   "url": "https://www.animesenseijp.com/blog/te-shimau-chatta-grammar/",
+   "articles": 18
+  },
+  "n4-130": {
+   "jp": "も",
+   "romaji": "mo",
+   "en": "As many/much as (mo after amount)",
+   "slug": "definitely-never-in-japanese-zettai-kanarazu",
+   "title": "Definitely and never in Japanese: 絶対, 必ず, 決して, which ones can go negative",
+   "url": "https://www.animesenseijp.com/blog/definitely-never-in-japanese-zettai-kanarazu/",
+   "articles": 18
+  },
+  "n4-206": {
+   "jp": "より",
+   "romaji": "yori",
+   "en": "Than",
+   "slug": "how-to-say-you-will-be-late-in-japanese",
+   "title": "How to say you will be late in Japanese: the message matters more than the lateness",
+   "url": "https://www.animesenseijp.com/blog/how-to-say-you-will-be-late-in-japanese/",
+   "articles": 17
+  },
+  "n4-185": {
+   "jp": "てしまう / ちゃう",
+   "romaji": "te shimau / chau",
+   "en": "Do completely / regrettably",
+   "slug": "te-shimau-chatta-grammar",
+   "title": "てしまう and ちゃった: the grammar of \"oops, I did it",
+   "url": "https://www.animesenseijp.com/blog/te-shimau-chatta-grammar/",
+   "articles": 15
+  },
+  "n4-183": {
+   "jp": "てもらう",
+   "romaji": "te morau",
+   "en": "Have someone do for me (te morau)",
+   "slug": "how-to-say-haircut-in-japanese",
+   "title": "How to say \"haircut\" in Japanese: 切る, 刈る, 剃る and the sentence that means you did it yourself",
+   "url": "https://www.animesenseijp.com/blog/how-to-say-haircut-in-japanese/",
+   "articles": 13
+  },
+  "n4-209": {
+   "jp": "ように / ような",
+   "romaji": "you ni / you na",
+   "en": "Like; as (you ni / you na)",
+   "slug": "douyatte-how-in-japanese",
+   "title": "How in Japanese: どうやって, どう, どうすれば, the difference",
+   "url": "https://www.animesenseijp.com/blog/douyatte-how-in-japanese/",
+   "articles": 13
+  },
+  "n4-112": {
+   "jp": "かもしれない",
+   "romaji": "kamo shirenai",
+   "en": "Might; perhaps",
+   "slug": "kamoshirenai-grammar",
+   "title": "かもしれない: \"maybe,\" and the だ you have to delete",
+   "url": "https://www.animesenseijp.com/blog/kamoshirenai-grammar/",
+   "articles": 12
+  },
+  "n4-180": {
+   "jp": "てくれる",
+   "romaji": "te kureru",
+   "en": "Someone does for me (te kureru)",
+   "slug": "ageru-kureru-morau-giving-receiving",
+   "title": "あげる, くれる, もらう: which way is the thing moving?",
+   "url": "https://www.animesenseijp.com/blog/ageru-kureru-morau-giving-receiving/",
+   "articles": 12
+  },
+  "n4-191": {
+   "jp": "と",
+   "romaji": "to",
+   "en": "Whenever / when (to)",
+   "slug": "ni-yoru-to-according-to",
+   "title": "〜によると: \"according to,\" and the そうです you must not drop",
+   "url": "https://www.animesenseijp.com/blog/ni-yoru-to-according-to/",
+   "articles": 12
+  },
+  "n4-087": {
+   "jp": "後で（あとで）",
+   "romaji": "ato de",
+   "en": "After; later",
+   "slug": "jet-lag-in-japanese-jisaboke",
+   "title": "Jet lag in Japanese: 時差ボケ, and the other things Japanese can be ボケ about",
+   "url": "https://www.animesenseijp.com/blog/jet-lag-in-japanese-jisaboke/",
+   "articles": 11
+  },
+  "n4-107": {
+   "jp": "いたします",
+   "romaji": "itashimasu",
+   "en": "Humble 'do'",
+   "slug": "of-course-in-japanese-mochiron",
+   "title": "Of course in Japanese: もちろん, 当然, and the \"of course\" that sounds cold",
+   "url": "https://www.animesenseijp.com/blog/of-course-in-japanese-mochiron/",
+   "articles": 11
+  },
+  "n4-145": {
+   "jp": "のに",
+   "romaji": "noni",
+   "en": "Although (noni)",
+   "slug": "temo-grammar-even-if-japanese",
+   "title": "〜ても: \"even if\", and the question words that turn it into \"no matter what",
+   "url": "https://www.animesenseijp.com/blog/temo-grammar-even-if-japanese/",
+   "articles": 11
+  },
+  "n4-165": {
+   "jp": "そうだ",
+   "romaji": "sou da [2]",
+   "en": "Looks like (appearance)",
+   "slug": "sou-desu-looks-like-vs-i-heard",
+   "title": "そうです has two meanings: \"it looks like\" and \"I heard",
+   "url": "https://www.animesenseijp.com/blog/sou-desu-looks-like-vs-i-heard/",
+   "articles": 11
+  },
+  "n4-147": {
+   "jp": "のは〜だ",
+   "romaji": "nowa~da",
+   "en": "Cleft: it is B that ... (no wa ~ da)",
+   "slug": "hazu-grammar-japanese",
+   "title": "〜はず: the \"should\" that is a prediction, not an obligation",
+   "url": "https://www.animesenseijp.com/blog/hazu-grammar-japanese/",
+   "articles": 10
+  },
+  "n4-193": {
+   "jp": "という",
+   "romaji": "to iu",
+   "en": "Called; named; that",
+   "slug": "to-iu-japanese-grammar",
+   "title": "〜という: the grammar for naming, quoting, and defining things",
+   "url": "https://www.animesenseijp.com/blog/to-iu-japanese-grammar/",
+   "articles": 10
+  },
+  "n4-121": {
+   "jp": "ことにする",
+   "romaji": "koto ni suru",
+   "en": "Decide to (koto ni suru)",
+   "slug": "koto-ni-suru-vs-koto-ni-naru",
+   "title": "〜ことにする vs 〜ことになる: the decision you made, and the one that just happened to you",
+   "url": "https://www.animesenseijp.com/blog/koto-ni-suru-vs-koto-ni-naru/",
+   "articles": 9
+  },
+  "n4-177": {
+   "jp": "ていく",
+   "romaji": "te iku",
+   "en": "Go on doing (te iku)",
+   "slug": "douyatte-how-in-japanese",
+   "title": "How in Japanese: どうやって, どう, どうすれば, the difference",
+   "url": "https://www.animesenseijp.com/blog/douyatte-how-in-japanese/",
+   "articles": 9
+  },
+  "n4-086": {
+   "jp": "あまり～ない",
+   "romaji": "amari~nai",
+   "en": "Not very",
+   "slug": "i-love-you-in-japanese-suki-aishiteru",
+   "title": "I love you in Japanese: 好き, 大好き, 愛してる and why the last one is almost never said",
+   "url": "https://www.animesenseijp.com/blog/i-love-you-in-japanese-suki-aishiteru/",
+   "articles": 8
+  },
+  "n4-157": {
+   "jp": "させる",
+   "romaji": "saseru",
+   "en": "Make / let someone do",
+   "slug": "japanese-causative-form-saseru",
+   "title": "Japanese causative form: させる, せる, and who is making whom do what",
+   "url": "https://www.animesenseijp.com/blog/japanese-causative-form-saseru/",
+   "articles": 8
+  },
+  "n4-106": {
+   "jp": "いらっしゃる",
+   "romaji": "irassharu",
+   "en": "Honorific to be / come / go",
+   "slug": "keigo-vs-casual-japanese-when-to-switch",
+   "title": "Keigo vs casual: how to know when to switch in Japanese",
+   "url": "https://www.animesenseijp.com/blog/keigo-vs-casual-japanese-when-to-switch/",
+   "articles": 7
+  },
+  "n4-120": {
+   "jp": "ことになる",
+   "romaji": "koto ni naru",
+   "en": "It has been decided (koto ni naru)",
+   "slug": "koto-ni-suru-vs-koto-ni-naru",
+   "title": "〜ことにする vs 〜ことになる: the decision you made, and the one that just happened to you",
+   "url": "https://www.animesenseijp.com/blog/koto-ni-suru-vs-koto-ni-naru/",
+   "articles": 7
+  },
+  "n4-137": {
+   "jp": "なら",
+   "romaji": "nara",
+   "en": "If (nara)",
+   "slug": "japanese-conditionals-tara-reba-to-nara",
+   "title": "What Are the Four Japanese Conditionals? と, ば, たら, なら",
+   "url": "https://www.animesenseijp.com/blog/japanese-conditionals-tara-reba-to-nara/",
+   "articles": 7
+  },
+  "n4-138": {
+   "jp": "なさい",
+   "romaji": "nasai",
+   "en": "Do it (soft command)",
+   "slug": "kurai-vs-gurai-japanese",
+   "title": "くらい or ぐらい: which one, and why nobody can give you a rule",
+   "url": "https://www.animesenseijp.com/blog/kurai-vs-gurai-japanese/",
+   "articles": 7
+  },
+  "n4-184": {
+   "jp": "ておく",
+   "romaji": "te oku",
+   "en": "Do in advance (te oku)",
+   "slug": "te-oku-grammar-doing-in-advance",
+   "title": "〜ておく: doing something now so future you does not have to",
+   "url": "https://www.animesenseijp.com/blog/te-oku-grammar-doing-in-advance/",
+   "articles": 7
+  },
+  "n4-207": {
+   "jp": "予定だ（よていだ）",
+   "romaji": "yotei da",
+   "en": "Plan to",
+   "slug": "tsumori-grammar-intending-to",
+   "title": "つもり: how to say what you intend to do, and the つもり that means you were wrong",
+   "url": "https://www.animesenseijp.com/blog/tsumori-grammar-intending-to/",
+   "articles": 7
+  },
+  "n4-208": {
+   "jp": "ようだ",
+   "romaji": "you da",
+   "en": "Seems (youda)",
+   "slug": "sou-desu-looks-like-vs-i-heard",
+   "title": "そうです has two meanings: \"it looks like\" and \"I heard",
+   "url": "https://www.animesenseijp.com/blog/sou-desu-looks-like-vs-i-heard/",
+   "articles": 7
+  },
+  "n4-090": {
+   "jp": "ばかり",
+   "romaji": "bakari",
+   "en": "Nothing but; only",
+   "slug": "tokoro-grammar-japanese",
+   "title": "ところ: how Japanese says \"about to\", \"in the middle of\" and \"just did",
+   "url": "https://www.animesenseijp.com/blog/tokoro-grammar-japanese/",
+   "articles": 6
+  },
+  "n4-101": {
+   "jp": "始める（はじめる）",
+   "romaji": "hajimeru",
+   "en": "Begin to",
+   "slug": "hajimete-vs-saisho-japanese",
+   "title": "初めて, 最初に, 始めて: three words for \"first,\" and only one is about doing it for the first time",
+   "url": "https://www.animesenseijp.com/blog/hajimete-vs-saisho-japanese/",
+   "articles": 6
+  },
+  "n4-124": {
+   "jp": "までに",
+   "romaji": "made ni",
+   "en": "By (deadline)",
+   "slug": "nakereba-naranai-must-have-to",
+   "title": "Nakereba naranai: how do you say \"must\" in Japanese?",
+   "url": "https://www.animesenseijp.com/blog/nakereba-naranai-must-have-to/",
+   "articles": 6
+  },
+  "n4-136": {
+   "jp": "なければならない",
+   "romaji": "nakereba naranai",
+   "en": "Must (nakereba naranai)",
+   "slug": "nakereba-naranai-must-have-to",
+   "title": "Nakereba naranai: how do you say \"must\" in Japanese?",
+   "url": "https://www.animesenseijp.com/blog/nakereba-naranai-must-have-to/",
+   "articles": 6
+  },
+  "n4-155": {
+   "jp": "さっき",
+   "romaji": "sakki",
+   "en": "A moment ago",
+   "slug": "how-to-change-your-order-in-japanese",
+   "title": "How to change your order in Japanese: すみません, やっぱり does the whole job",
+   "url": "https://www.animesenseijp.com/blog/how-to-change-your-order-in-japanese/",
+   "articles": 6
+  },
+  "n4-179": {
+   "jp": "ていただけませんか",
+   "romaji": "te itadakemasen ka",
+   "en": "Could you please (te itadakemasen ka)",
+   "slug": "ageru-kureru-morau-giving-receiving",
+   "title": "あげる, くれる, もらう: which way is the thing moving?",
+   "url": "https://www.animesenseijp.com/blog/ageru-kureru-morau-giving-receiving/",
+   "articles": 6
+  },
+  "n4-186": {
+   "jp": "てすみません",
+   "romaji": "te sumimasen",
+   "en": "Sorry for doing",
+   "slug": "how-to-say-you-will-be-late-in-japanese",
+   "title": "How to say you will be late in Japanese: the message matters more than the lateness",
+   "url": "https://www.animesenseijp.com/blog/how-to-say-you-will-be-late-in-japanese/",
+   "articles": 6
+  },
+  "n4-204": {
+   "jp": "やすい",
+   "romaji": "yasui",
+   "en": "Easy to do",
+   "slug": "yasui-nikui-easy-hard-to-do",
+   "title": "〜やすい and 〜にくい: easy to do, hard to do, and prone to happening",
+   "url": "https://www.animesenseijp.com/blog/yasui-nikui-easy-hard-to-do/",
+   "articles": 6
+  },
+  "n4-092": {
+   "jp": "出す（だす）",
+   "romaji": "dasu",
+   "en": "Start to (dasu)",
+   "slug": "remember-in-japanese-oboeru-omoidasu",
+   "title": "Remember in Japanese: 覚える oboeru vs 思い出す omoidasu",
+   "url": "https://www.animesenseijp.com/blog/remember-in-japanese-oboeru-omoidasu/",
+   "articles": 5
+  },
+  "n4-125": {
+   "jp": "まま",
+   "romaji": "mama",
+   "en": "As it is",
+   "slug": "how-to-change-your-order-in-japanese",
+   "title": "How to change your order in Japanese: すみません, やっぱり does the whole job",
+   "url": "https://www.animesenseijp.com/blog/how-to-change-your-order-in-japanese/",
+   "articles": 5
+  },
+  "n4-148": {
+   "jp": "お～ください",
+   "romaji": "o~kudasai",
+   "en": "Please do (honorific o~kudasai)",
+   "slug": "ojamashimasu-visiting-a-japanese-home",
+   "title": "お邪魔します: what to say when you walk into a Japanese home",
+   "url": "https://www.animesenseijp.com/blog/ojamashimasu-visiting-a-japanese-home/",
+   "articles": 5
+  },
+  "n4-149": {
+   "jp": "お～になる",
+   "romaji": "o~ni naru",
+   "en": "Honorific o~ni naru",
+   "slug": "otsukaresama-meaning-japanese",
+   "title": "お疲れさま: the Japanese phrase that means hello, goodbye, thank you and well done",
+   "url": "https://www.animesenseijp.com/blog/otsukaresama-meaning-japanese/",
+   "articles": 5
+  },
+  "n4-164": {
+   "jp": "そうだ",
+   "romaji": "sou da [1]",
+   "en": "Hearsay 'I heard'",
+   "slug": "sou-desu-looks-like-vs-i-heard",
+   "title": "そうです has two meanings: \"it looks like\" and \"I heard",
+   "url": "https://www.animesenseijp.com/blog/sou-desu-looks-like-vs-i-heard/",
+   "articles": 5
+  },
+  "n4-182": {
+   "jp": "てみる",
+   "romaji": "te miru",
+   "en": "Try doing",
+   "slug": "you-to-suru-vs-te-miru",
+   "title": "ようとする vs てみる: two ways to say \"try\" in Japanese",
+   "url": "https://www.animesenseijp.com/blog/you-to-suru-vs-te-miru/",
+   "articles": 5
+  },
+  "n4-199": {
+   "jp": "ところ",
+   "romaji": "tokoro",
+   "en": "About to (tokoro)",
+   "slug": "tokoro-grammar-japanese",
+   "title": "ところ: how Japanese says \"about to\", \"in the middle of\" and \"just did",
+   "url": "https://www.animesenseijp.com/blog/tokoro-grammar-japanese/",
+   "articles": 5
+  },
+  "n4-205": {
+   "jp": "やっと",
+   "romaji": "yatto",
+   "en": "Finally",
+   "slug": "japanese-gaming-terms-slang",
+   "title": "Japanese gaming terms: 死にゲー, 格ゲー, クソゲー and the slang gamers use",
+   "url": "https://www.animesenseijp.com/blog/japanese-gaming-terms-slang/",
+   "articles": 5
+  },
+  "n4-210": {
+   "jp": "ようになる",
+   "romaji": "you ni naru",
+   "en": "Come to be able to",
+   "slug": "you-ni-naru-grammar",
+   "title": "〜ようになる: the grammar for \"I can do it now, and I could not before",
+   "url": "https://www.animesenseijp.com/blog/you-ni-naru-grammar/",
+   "articles": 5
+  },
+  "n4-214": {
+   "jp": "全然～ない（ぜんぜん～ない）",
+   "romaji": "zenzen~nai",
+   "en": "Not at all",
+   "slug": "definitely-never-in-japanese-zettai-kanarazu",
+   "title": "Definitely and never in Japanese: 絶対, 必ず, 決して, which ones can go negative",
+   "url": "https://www.animesenseijp.com/blog/definitely-never-in-japanese-zettai-kanarazu/",
+   "articles": 5
+  },
+  "n4-091": {
+   "jp": "だけで",
+   "romaji": "dake de",
+   "en": "Just by doing",
+   "slug": "dake-vs-shika",
+   "title": "だけ vs しか: two words for \"only,\" and one of them is a complaint",
+   "url": "https://www.animesenseijp.com/blog/dake-vs-shika/",
+   "articles": 4
+  },
+  "n4-093": {
+   "jp": "でございます",
+   "romaji": "de gozaimasu",
+   "en": "Honorific copula",
+   "slug": "of-course-in-japanese-mochiron",
+   "title": "Of course in Japanese: もちろん, 当然, and the \"of course\" that sounds cold",
+   "url": "https://www.animesenseijp.com/blog/of-course-in-japanese-mochiron/",
+   "articles": 4
+  },
+  "n4-099": {
+   "jp": "がる / がっている",
+   "romaji": "garu / gatteiru",
+   "en": "Show signs of (garu)",
+   "slug": "japanese-personality-adjectives",
+   "title": "Japanese personality adjectives: how to describe someone without insulting them",
+   "url": "https://www.animesenseijp.com/blog/japanese-personality-adjectives/",
+   "articles": 4
+  },
+  "n4-113": {
+   "jp": "かな",
+   "romaji": "kana",
+   "en": "I wonder (kana)",
+   "slug": "kamoshirenai-grammar",
+   "title": "かもしれない: \"maybe,\" and the だ you have to delete",
+   "url": "https://www.animesenseijp.com/blog/kamoshirenai-grammar/",
+   "articles": 4
+  },
+  "n4-116": {
+   "jp": "頃（ころ / ごろ）",
+   "romaji": "koro / goro",
+   "en": "Around (time)",
+   "slug": "kurai-vs-gurai-japanese",
+   "title": "くらい or ぐらい: which one, and why nobody can give you a rule",
+   "url": "https://www.animesenseijp.com/blog/kurai-vs-gurai-japanese/",
+   "articles": 4
+  },
+  "n4-119": {
+   "jp": "ことができる",
+   "romaji": "koto ga dekiru",
+   "en": "Can do (koto ga dekiru)",
+   "slug": "koto-ga-dekiru-potential-form",
+   "title": "ことができる vs the potential form: two ways to say \"I can\" in Japanese",
+   "url": "https://www.animesenseijp.com/blog/koto-ga-dekiru-potential-form/",
+   "articles": 4
+  },
+  "n4-154": {
+   "jp": "さ",
+   "romaji": "sa",
+   "en": "-ness (nominalizer sa)",
+   "slug": "tadoku-reading-japanese",
+   "title": "How to start reading in Japanese: 多読, graded readers, and the ふりがな shortcut nobody mentions",
+   "url": "https://www.animesenseijp.com/blog/tadoku-reading-japanese/",
+   "articles": 4
+  },
+  "n4-158": {
+   "jp": "させてください",
+   "romaji": "sasete kudasai",
+   "en": "Please let me do",
+   "slug": "japanese-causative-form-saseru",
+   "title": "Japanese causative form: させる, せる, and who is making whom do what",
+   "url": "https://www.animesenseijp.com/blog/japanese-causative-form-saseru/",
+   "articles": 4
+  },
+  "n4-175": {
+   "jp": "てあげる",
+   "romaji": "te ageru",
+   "en": "Do a favor for (te ageru)",
+   "slug": "ageru-kureru-morau-giving-receiving",
+   "title": "あげる, くれる, もらう: which way is the thing moving?",
+   "url": "https://www.animesenseijp.com/blog/ageru-kureru-morau-giving-receiving/",
+   "articles": 4
+  },
+  "n4-196": {
+   "jp": "と聞いた（ときいた）",
+   "romaji": "to kiita",
+   "en": "I heard that",
+   "slug": "ojamashimasu-visiting-a-japanese-home",
+   "title": "お邪魔します: what to say when you walk into a Japanese home",
+   "url": "https://www.animesenseijp.com/blog/ojamashimasu-visiting-a-japanese-home/",
+   "articles": 4
+  },
+  "n4-094": {
+   "jp": "でも",
+   "romaji": "demo",
+   "en": "...or something (demo)",
+   "slug": "temo-grammar-even-if-japanese",
+   "title": "〜ても: \"even if\", and the question words that turn it into \"no matter what",
+   "url": "https://www.animesenseijp.com/blog/temo-grammar-even-if-japanese/",
+   "articles": 3
+  },
+  "n4-096": {
+   "jp": "が必要（がひつよう）",
+   "romaji": "ga hitsuyou",
+   "en": "Need; necessary",
+   "slug": "hitsuyou-ga-aru-need-to-japanese",
+   "title": "How Do You Say \"Need To\" in Japanese? 〜必要がある Explained",
+   "url": "https://www.animesenseijp.com/blog/hitsuyou-ga-aru-need-to-japanese/",
+   "articles": 3
+  },
+  "n4-102": {
+   "jp": "はずだ",
+   "romaji": "hazu da",
+   "en": "Should be (expectation)",
+   "slug": "hazu-grammar-japanese",
+   "title": "〜はず: the \"should\" that is a prediction, not an obligation",
+   "url": "https://www.animesenseijp.com/blog/hazu-grammar-japanese/",
+   "articles": 3
+  },
+  "n4-118": {
+   "jp": "ことがある",
+   "romaji": "koto ga aru",
+   "en": "There are times when",
+   "slug": "ta-koto-ga-arimasu-have-you-ever",
+   "title": "たことがあります: how to say \"I have done this before\" in Japanese",
+   "url": "https://www.animesenseijp.com/blog/ta-koto-ga-arimasu-have-you-ever/",
+   "articles": 3
+  },
+  "n4-140": {
+   "jp": "に気がつく（にきがつく）",
+   "romaji": "ni ki ga tsuku",
+   "en": "Notice",
+   "slug": "toki-grammar-when-japanese",
+   "title": "〜とき: why 行くとき and 行ったとき are two different moments",
+   "url": "https://www.animesenseijp.com/blog/toki-grammar-when-japanese/",
+   "articles": 3
+  },
+  "n4-153": {
+   "jp": "らしい",
+   "romaji": "rashii",
+   "en": "Apparently (rashii)",
+   "slug": "sou-desu-looks-like-vs-i-heard",
+   "title": "そうです has two meanings: \"it looks like\" and \"I heard",
+   "url": "https://www.animesenseijp.com/blog/sou-desu-looks-like-vs-i-heard/",
+   "articles": 3
+  },
+  "n4-156": {
+   "jp": "させられる",
+   "romaji": "saserareru",
+   "en": "Be made to do",
+   "slug": "japanese-causative-form-saseru",
+   "title": "Japanese causative form: させる, せる, and who is making whom do what",
+   "url": "https://www.animesenseijp.com/blog/japanese-causative-form-saseru/",
+   "articles": 3
+  },
+  "n4-194": {
+   "jp": "ということ",
+   "romaji": "to iu koto",
+   "en": "The fact that (to iu koto)",
+   "slug": "to-iu-japanese-grammar",
+   "title": "〜という: the grammar for naming, quoting, and defining things",
+   "url": "https://www.animesenseijp.com/blog/to-iu-japanese-grammar/",
+   "articles": 3
+  },
+  "n4-200": {
+   "jp": "続ける（つづける）",
+   "romaji": "tsuzukeru",
+   "en": "Continue doing",
+   "slug": "tadoku-reading-japanese",
+   "title": "How to start reading in Japanese: 多読, graded readers, and the ふりがな shortcut nobody mentions",
+   "url": "https://www.animesenseijp.com/blog/tadoku-reading-japanese/",
+   "articles": 3
+  },
+  "n4-212": {
+   "jp": "ようと思う（ようとおもう）",
+   "romaji": "you to omou",
+   "en": "Thinking of doing",
+   "slug": "you-to-suru-vs-te-miru",
+   "title": "ようとする vs てみる: two ways to say \"try\" in Japanese",
+   "url": "https://www.animesenseijp.com/blog/you-to-suru-vs-te-miru/",
+   "articles": 3
+  },
+  "n4-115": {
+   "jp": "きっと",
+   "romaji": "kitto",
+   "en": "Surely; most likely",
+   "slug": "probably-in-japanese-tabun-deshou",
+   "title": "Probably in Japanese: たぶん, でしょう, おそらく, and where きっと sits",
+   "url": "https://www.animesenseijp.com/blog/probably-in-japanese-tabun-deshou/",
+   "articles": 2
+  },
+  "n4-127": {
+   "jp": "みたいだ",
+   "romaji": "mitai da",
+   "en": "Seems like (mitai da)",
+   "slug": "tokoro-grammar-japanese",
+   "title": "ところ: how Japanese says \"about to\", \"in the middle of\" and \"just did",
+   "url": "https://www.animesenseijp.com/blog/tokoro-grammar-japanese/",
+   "articles": 2
+  },
+  "n4-131": {
+   "jp": "な",
+   "romaji": "na",
+   "en": "Don't! (prohibition)",
+   "slug": "old-in-japanese-furui-toshi-wo-toru",
+   "title": "Old in Japanese: 古い, 年をとった, 年上 and which \"old\" you mean",
+   "url": "https://www.animesenseijp.com/blog/old-in-japanese-furui-toshi-wo-toru/",
+   "articles": 2
+  },
+  "n4-133": {
+   "jp": "ながら",
+   "romaji": "nagara",
+   "en": "While doing",
+   "slug": "nagara-grammar-while-doing",
+   "title": "〜ながら: \"while doing\", and why the second verb is the real one",
+   "url": "https://www.animesenseijp.com/blog/nagara-grammar-while-doing/",
+   "articles": 2
+  },
+  "n4-139": {
+   "jp": "なさる",
+   "romaji": "nasaru",
+   "en": "Honorific 'do'",
+   "slug": null,
+   "title": null,
+   "url": null,
+   "articles": 2
+  },
+  "n4-141": {
+   "jp": "に見える（にみえる）",
+   "romaji": "ni mieru",
+   "en": "Look / seem",
+   "slug": "sou-desu-looks-like-vs-i-heard",
+   "title": "そうです has two meanings: \"it looks like\" and \"I heard",
+   "url": "https://www.animesenseijp.com/blog/sou-desu-looks-like-vs-i-heard/",
+   "articles": 2
+  },
+  "n4-143": {
+   "jp": "にくい",
+   "romaji": "nikui",
+   "en": "Hard to do",
+   "slug": "yasui-nikui-easy-hard-to-do",
+   "title": "〜やすい and 〜にくい: easy to do, hard to do, and prone to happening",
+   "url": "https://www.animesenseijp.com/blog/yasui-nikui-easy-hard-to-do/",
+   "articles": 2
+  },
+  "n4-163": {
+   "jp": "それに",
+   "romaji": "sore ni",
+   "en": "Besides; moreover",
+   "slug": "to-vs-ya-particle-japanese",
+   "title": "と vs や: the complete list, and the list that is just some examples",
+   "url": "https://www.animesenseijp.com/blog/to-vs-ya-particle-japanese/",
+   "articles": 2
+  },
+  "n4-166": {
+   "jp": "そうに / そうな",
+   "romaji": "sou ni / sou na",
+   "en": "Looking ~ (sou ni / sou na)",
+   "slug": "almost-in-japanese-hotondo-hobo",
+   "title": "Almost in Japanese: ほとんど, ほぼ and the もう少しで of near misses",
+   "url": "https://www.animesenseijp.com/blog/almost-in-japanese-hotondo-hobo/",
+   "articles": 2
+  },
+  "n4-170": {
+   "jp": "たがる",
+   "romaji": "tagaru",
+   "en": "Third person wants to",
+   "slug": "makezugirai-meaning-japanese",
+   "title": "負けず嫌い (makezugirai): hating to lose, and 頑張り屋, just trying hard",
+   "url": "https://www.animesenseijp.com/blog/makezugirai-meaning-japanese/",
+   "articles": 2
+  },
+  "n4-188": {
+   "jp": "てよかった",
+   "romaji": "te yokatta",
+   "en": "Glad that (te yokatta)",
+   "slug": "osekkai-vs-mendoumi-japanese",
+   "title": "お節介 (osekkai): meddling help nobody asked for, and 面倒見がいい, the wanted version",
+   "url": "https://www.animesenseijp.com/blog/osekkai-vs-mendoumi-japanese/",
+   "articles": 2
+  },
+  "n4-189": {
+   "jp": "ているところ",
+   "romaji": "teiru tokoro",
+   "en": "In the middle of doing",
+   "slug": "tokoro-grammar-japanese",
+   "title": "ところ: how Japanese says \"about to\", \"in the middle of\" and \"just did",
+   "url": "https://www.animesenseijp.com/blog/tokoro-grammar-japanese/",
+   "articles": 2
+  },
+  "n4-203": {
+   "jp": "は〜が… は",
+   "romaji": "wa~ga... wa",
+   "en": "A but B (contrast wa ~ ga ~ wa)",
+   "slug": "motomoto-meaning-originally-in-japanese",
+   "title": "Motomoto meaning: もともと, 'originally', and why it's not もっと",
+   "url": "https://www.animesenseijp.com/blog/motomoto-meaning-originally-in-japanese/",
+   "articles": 2
+  },
+  "n4-211": {
+   "jp": "ようにする",
+   "romaji": "you ni suru",
+   "en": "Make sure to",
+   "slug": "you-ni-suru-grammar",
+   "title": "〜ようにする vs 〜ようになる: making an effort to, and ending up able to",
+   "url": "https://www.animesenseijp.com/blog/you-ni-suru-grammar/",
+   "articles": 2
+  },
+  "n4-213": {
+   "jp": "ぜひ",
+   "romaji": "zehi",
+   "en": "By all means",
+   "slug": "definitely-never-in-japanese-zettai-kanarazu",
+   "title": "Definitely and never in Japanese: 絶対, 必ず, 決して, which ones can go negative",
+   "url": "https://www.animesenseijp.com/blog/definitely-never-in-japanese-zettai-kanarazu/",
+   "articles": 2
+  },
+  "n4-085": {
+   "jp": "間に（あいだに）",
+   "romaji": "aida ni",
+   "en": "Something happens while",
+   "slug": "nagara-grammar-while-doing",
+   "title": "〜ながら: \"while doing\", and why the second verb is the real one",
+   "url": "https://www.animesenseijp.com/blog/nagara-grammar-while-doing/",
+   "articles": 1
+  },
+  "n4-089": {
+   "jp": "場合は（ばあいは）",
+   "romaji": "baai wa",
+   "en": "In case of",
+   "slug": "limited-in-japanese-gentei",
+   "title": "Limited in Japanese: 限定, and the 以上/未満 on every sign",
+   "url": "https://www.animesenseijp.com/blog/limited-in-japanese-gentei/",
+   "articles": 1
+  },
+  "n4-098": {
+   "jp": "がり",
+   "romaji": "gari",
+   "en": "Prone to (-gari)",
+   "slug": "hitomishiri-vs-uchiki-japanese",
+   "title": "人見知り (hitomishiri): shy around strangers, and 内気, shy by nature",
+   "url": "https://www.animesenseijp.com/blog/hitomishiri-vs-uchiki-japanese/",
+   "articles": 1
+  },
+  "n4-103": {
+   "jp": "はずがない",
+   "romaji": "hazu ga nai",
+   "en": "Cannot be",
+   "slug": "hazu-grammar-japanese",
+   "title": "〜はず: the \"should\" that is a prediction, not an obligation",
+   "url": "https://www.animesenseijp.com/blog/hazu-grammar-japanese/",
+   "articles": 1
+  },
+  "n4-104": {
+   "jp": "必要がある（ひつようがある）",
+   "romaji": "hitsuyou ga aru",
+   "en": "Need to",
+   "slug": "hitsuyou-ga-aru-need-to-japanese",
+   "title": "How Do You Say \"Need To\" in Japanese? 〜必要がある Explained",
+   "url": "https://www.animesenseijp.com/blog/hitsuyou-ga-aru-need-to-japanese/",
+   "articles": 1
+  },
+  "n4-108": {
+   "jp": "じゃないか",
+   "romaji": "janai ka",
+   "en": "Isn't it? / Let's (janai ka)",
+   "slug": "hou-ga-ii-giving-advice",
+   "title": "How Do You Give Advice in Japanese? 〜方がいい Explained",
+   "url": "https://www.animesenseijp.com/blog/hou-ga-ii-giving-advice/",
+   "articles": 1
+  },
+  "n4-109": {
+   "jp": "かどうか",
+   "romaji": "ka dou ka",
+   "en": "Whether or not",
+   "slug": "how-to-say-or-in-japanese",
+   "title": "Or in Japanese: か, それとも or または, one trap word",
+   "url": "https://www.animesenseijp.com/blog/how-to-say-or-in-japanese/",
+   "articles": 1
+  },
+  "n4-110": {
+   "jp": "かしら",
+   "romaji": "ka shira",
+   "en": "I wonder (feminine)",
+   "slug": null,
+   "title": null,
+   "url": null,
+   "articles": 1
+  },
+  "n4-111": {
+   "jp": "かい",
+   "romaji": "kai",
+   "en": "Casual question 'kai'",
+   "slug": null,
+   "title": null,
+   "url": null,
+   "articles": 1
+  },
+  "n4-114": {
+   "jp": "から作る（からつくる）",
+   "romaji": "kara tsukuru",
+   "en": "Made from",
+   "slug": null,
+   "title": null,
+   "url": null,
+   "articles": 1
+  },
+  "n4-126": {
+   "jp": "または",
+   "romaji": "matawa",
+   "en": "Or (matawa)",
+   "slug": "how-to-say-or-in-japanese",
+   "title": "Or in Japanese: か, それとも or または, one trap word",
+   "url": "https://www.animesenseijp.com/blog/how-to-say-or-in-japanese/",
+   "articles": 1
+  },
+  "n4-128": {
+   "jp": "みたいな",
+   "romaji": "mitai na",
+   "en": "Like ~ (mitai na)",
+   "slug": "to-vs-ya-particle-japanese",
+   "title": "と vs や: the complete list, and the list that is just some examples",
+   "url": "https://www.animesenseijp.com/blog/to-vs-ya-particle-japanese/",
+   "articles": 1
+  },
+  "n4-132": {
+   "jp": "など",
+   "romaji": "nado",
+   "en": "Such as; etc.",
+   "slug": "to-vs-ya-particle-japanese",
+   "title": "と vs や: the complete list, and the list that is just some examples",
+   "url": "https://www.animesenseijp.com/blog/to-vs-ya-particle-japanese/",
+   "articles": 1
+  },
+  "n4-135": {
+   "jp": "なければいけない",
+   "romaji": "nakereba ikenai",
+   "en": "Must (nakereba ikenai)",
+   "slug": "nakereba-naranai-must-have-to",
+   "title": "Nakereba naranai: how do you say \"must\" in Japanese?",
+   "url": "https://www.animesenseijp.com/blog/nakereba-naranai-must-have-to/",
+   "articles": 1
+  },
+  "n4-144": {
+   "jp": "の中で（のなかで）",
+   "romaji": "no naka de",
+   "en": "Among; in (group)",
+   "slug": null,
+   "title": null,
+   "url": null,
+   "articles": 1
+  },
+  "n4-146": {
+   "jp": "のに",
+   "romaji": "noni",
+   "en": "In order to (noni)",
+   "slug": "mottainai-meaning-japanese",
+   "title": "もったいない: the word for \"what a waste\", and why it is bigger than that",
+   "url": "https://www.animesenseijp.com/blog/mottainai-meaning-japanese/",
+   "articles": 1
+  },
+  "n4-150": {
+   "jp": "おきに",
+   "romaji": "oki ni",
+   "en": "Every other (oki ni)",
+   "slug": null,
+   "title": null,
+   "url": null,
+   "articles": 1
+  },
+  "n4-159": {
+   "jp": "さすが",
+   "romaji": "sasuga",
+   "en": "As expected of",
+   "slug": "good-job-in-japanese-yoku-yatta-sasuga",
+   "title": "Good job in Japanese: よくやった, さすが and why direction matters",
+   "url": "https://www.animesenseijp.com/blog/good-job-in-japanese-yoku-yatta-sasuga/",
+   "articles": 1
+  },
+  "n4-161": {
+   "jp": "そんなに",
+   "romaji": "sonna ni",
+   "en": "So much (sonna ni)",
+   "slug": null,
+   "title": null,
+   "url": null,
+   "articles": 1
+  },
+  "n4-167": {
+   "jp": "たばかり",
+   "romaji": "ta bakari",
+   "en": "Just did",
+   "slug": "tokoro-grammar-japanese",
+   "title": "ところ: how Japanese says \"about to\", \"in the middle of\" and \"just did",
+   "url": "https://www.animesenseijp.com/blog/tokoro-grammar-japanese/",
+   "articles": 1
+  },
+  "n4-168": {
+   "jp": "たところ",
+   "romaji": "ta tokoro",
+   "en": "Just finished",
+   "slug": "tokoro-grammar-japanese",
+   "title": "ところ: how Japanese says \"about to\", \"in the middle of\" and \"just did",
+   "url": "https://www.animesenseijp.com/blog/tokoro-grammar-japanese/",
+   "articles": 1
+  },
+  "n4-176": {
+   "jp": "てほしい",
+   "romaji": "te hoshii",
+   "en": "Want someone to",
+   "slug": null,
+   "title": null,
+   "url": null,
+   "articles": 1
+  },
+  "n4-195": {
+   "jp": "と言われている（といわれている）",
+   "romaji": "to iwarete iru",
+   "en": "It is said that",
+   "slug": "japanese-passive-form-rareru",
+   "title": "The Japanese passive 〜られる: including the one that means \"and it annoyed me",
+   "url": "https://www.animesenseijp.com/blog/japanese-passive-form-rareru/",
+   "articles": 1
+  },
+  "n4-198": {
+   "jp": "とか～とか",
+   "romaji": "toka~toka",
+   "en": "Such as A, B (toka)",
+   "slug": "how-to-say-or-in-japanese",
+   "title": "Or in Japanese: か, それとも or または, one trap word",
+   "url": "https://www.animesenseijp.com/blog/how-to-say-or-in-japanese/",
+   "articles": 1
+  },
+  "n4-215": {
+   "jp": "づらい",
+   "romaji": "zurai",
+   "en": "Hard to do (zurai)",
+   "slug": "yasui-nikui-easy-hard-to-do",
+   "title": "〜やすい and 〜にくい: easy to do, hard to do, and prone to happening",
+   "url": "https://www.animesenseijp.com/blog/yasui-nikui-easy-hard-to-do/",
+   "articles": 1
+  },
+  "n4-084": {
+   "jp": "間（あいだ）",
+   "romaji": "aida",
+   "en": "While; during (state)",
+   "slug": null,
+   "title": null,
+   "url": null,
+   "articles": 0
+  },
+  "n4-095": {
+   "jp": "ではないか",
+   "romaji": "dewa nai ka",
+   "en": "Isn't it? (dewa nai ka)",
+   "slug": null,
+   "title": null,
+   "url": null,
+   "articles": 0
+  },
+  "n4-097": {
+   "jp": "がする",
+   "romaji": "ga suru",
+   "en": "Smell/sound/taste is felt",
+   "slug": null,
+   "title": null,
+   "url": null,
+   "articles": 0
+  },
+  "n4-123": {
+   "jp": "急に（きゅうに）",
+   "romaji": "kyuu ni",
+   "en": "Suddenly",
+   "slug": null,
+   "title": null,
+   "url": null,
+   "articles": 0
+  },
+  "n4-129": {
+   "jp": "みたいに",
+   "romaji": "mitai ni",
+   "en": "Like ~ (mitai ni)",
+   "slug": null,
+   "title": null,
+   "url": null,
+   "articles": 0
+  },
+  "n4-134": {
+   "jp": "なかなか～ない",
+   "romaji": "nakanaka~nai",
+   "en": "Not easily",
+   "slug": null,
+   "title": null,
+   "url": null,
+   "articles": 0
+  },
+  "n4-160": {
+   "jp": "し",
+   "romaji": "shi",
+   "en": "And besides (shi)",
+   "slug": null,
+   "title": null,
+   "url": null,
+   "articles": 0
+  },
+  "n4-162": {
+   "jp": "それでも",
+   "romaji": "sore demo",
+   "en": "Even so",
+   "slug": null,
+   "title": null,
+   "url": null,
+   "articles": 0
+  },
+  "n4-169": {
+   "jp": "他動詞 & 自動詞（たどうし & じどうし）",
+   "romaji": "tadoushi & jidoushi",
+   "en": "Transitive/intransitive pairs",
+   "slug": null,
+   "title": null,
+   "url": null,
+   "articles": 0
+  },
+  "n4-172": {
+   "jp": "たらどう",
+   "romaji": "tara dou",
+   "en": "Why don't you",
+   "slug": null,
+   "title": null,
+   "url": null,
+   "articles": 0
+  },
+  "n4-173": {
+   "jp": "たらいいですか",
+   "romaji": "tara ii desu ka",
+   "en": "What should I do (tara ii desu ka)",
+   "slug": null,
+   "title": null,
+   "url": null,
+   "articles": 0
+  },
+  "n4-174": {
+   "jp": "て / で",
+   "romaji": "te / de",
+   "en": "Te-form connector",
+   "slug": null,
+   "title": null,
+   "url": null,
+   "articles": 0
+  },
+  "n4-187": {
+   "jp": "てやる",
+   "romaji": "te yaru",
+   "en": "Do for (casual, te yaru)",
+   "slug": null,
+   "title": null,
+   "url": null,
+   "articles": 0
+  },
+  "n4-192": {
+   "jp": "と言ってもいい（といってもいい）",
+   "romaji": "to ittemo ii",
+   "en": "You could say",
+   "slug": null,
+   "title": null,
+   "url": null,
+   "articles": 0
+  },
+  "n4-201": {
+   "jp": "って",
+   "romaji": "tte",
+   "en": "Quotative / colloquial 'tte'",
+   "slug": null,
+   "title": null,
+   "url": null,
+   "articles": 0
+  }
+ }
+}

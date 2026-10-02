@@ -1,0 +1,726 @@
+{
+ "level": "N5",
+ "start": "2026-10-02",
+ "exam": "2026-12-06",
+ "facts": {
+  "sections": [
+   [
+    "Vocabulary",
+    20,
+    33
+   ],
+   [
+    "Grammar and Reading",
+    40,
+    30
+   ],
+   [
+    "Listening",
+    30,
+    24
+   ]
+  ],
+  "pass": "80 of 180",
+  "lkr": "38 of 120",
+  "listen": "19 of 60"
+ },
+ "weeks": [
+  {
+   "week": 1,
+   "phase": "Diagnose and Build",
+   "title": "Find your starting line",
+   "tasks": [
+    {
+     "id": "w1-diag",
+     "cat": "mock",
+     "text": "Take the free mini mock once (20 questions). Do it today.",
+     "links": [
+      {
+       "label": "Free mini mock",
+       "href": "../index.html#n5-mini"
+      }
+     ]
+    },
+    {
+     "id": "w1-weak",
+     "cat": "plan",
+     "text": "Write down your 3 weakest areas from the results page. Three lines, no more."
+    },
+    {
+     "id": "w1-slot",
+     "cat": "plan",
+     "text": "Pick one fixed 60 minute slot and put it in your calendar for all 7 days this week."
+    },
+    {
+     "id": "w1-reg",
+     "cat": "plan",
+     "text": "Check your registration status with the test organizer for your country. Do this 1 time, this week. Their notice comes first."
+    },
+    {
+     "id": "w1-gram",
+     "cat": "grammar",
+     "text": "Study 14 grammar items this week, 2 a day. Read one blog article per item, then write one sentence of your own.",
+     "items": [
+      "n5-001",
+      "n5-069",
+      "n5-022",
+      "n5-071",
+      "n5-034",
+      "n5-011",
+      "n5-037",
+      "n5-044",
+      "n5-066",
+      "n5-045",
+      "n5-024",
+      "n5-057",
+      "n5-019",
+      "n5-028"
+     ],
+     "perDay": 2
+    },
+    {
+     "id": "w1-kanji",
+     "cat": "kanji",
+     "text": "Learn 3 kanji a day, 21 this week.",
+     "links": [
+      {
+       "label": "Kanji Dojo",
+       "href": "https://yukitchy.github.io/kanji-dojo/"
+      }
+     ]
+    },
+    {
+     "id": "w1-vocab",
+     "cat": "vocab",
+     "text": "Learn 15 new words a day. That is 105 this week. Say each word aloud with one example sentence.",
+     "links": [
+      {
+       "label": "Read for vocabulary: the library",
+       "href": "https://www.animesenseijp.com/library/"
+      }
+     ]
+    },
+    {
+     "id": "w1-listen",
+     "cat": "listen",
+     "text": "Do 10 minutes of listening a day, 70 minutes this week. Use a listening section from the mock in practice mode, with the script open.",
+     "links": [
+      {
+       "label": "Open the mock",
+       "href": "../index.html#n5-mini"
+      }
+     ]
+    }
+   ],
+   "done": "You have 3 weak areas written down, a fixed daily slot, and one finished mini mock."
+  },
+  {
+   "week": 2,
+   "phase": "Build",
+   "title": "Build the base",
+   "tasks": [
+    {
+     "id": "w2-gram",
+     "cat": "grammar",
+     "text": "Study 14 grammar items this week, 2 a day. Read one article per item. Write one sentence of your own for each.",
+     "items": [
+      "n5-002",
+      "n5-049",
+      "n5-073",
+      "n5-031",
+      "n5-006",
+      "n5-064",
+      "n5-026",
+      "n5-038",
+      "n5-018",
+      "n5-023",
+      "n5-052",
+      "n5-007",
+      "n5-013",
+      "n5-030"
+     ],
+     "perDay": 2
+    },
+    {
+     "id": "w2-read",
+     "cat": "read",
+     "text": "Read 1 short passage a day, 7 this week. Find the main point first, then answer the questions.",
+     "links": [
+      {
+       "label": "Dokkai Dojo",
+       "href": "https://yukitchy.github.io/dokkai-dojo/"
+      }
+     ]
+    },
+    {
+     "id": "w2-book",
+     "cat": "read",
+     "text": "Read 1 library story this week: Rainy Day Cat. Read it once without stopping.",
+     "links": [
+      {
+       "label": "Rainy Day Cat",
+       "href": "https://www.animesenseijp.com/library/n5-ame-no-hi-no-neko/"
+      }
+     ]
+    },
+    {
+     "id": "w2-kanji",
+     "cat": "kanji",
+     "text": "Learn 3 kanji a day, 21 this week.",
+     "links": [
+      {
+       "label": "Kanji Dojo",
+       "href": "https://yukitchy.github.io/kanji-dojo/"
+      }
+     ]
+    },
+    {
+     "id": "w2-vocab",
+     "cat": "vocab",
+     "text": "Learn 15 new words a day. That is 105 this week. Say each word aloud with one example sentence.",
+     "links": [
+      {
+       "label": "Read for vocabulary: the library",
+       "href": "https://www.animesenseijp.com/library/"
+      }
+     ]
+    },
+    {
+     "id": "w2-listen",
+     "cat": "listen",
+     "text": "Do 10 minutes of listening a day, 70 minutes this week. Use a listening section from the mock in practice mode, with the script open.",
+     "links": [
+      {
+       "label": "Open the mock",
+       "href": "../index.html#n5-mini"
+      }
+     ]
+    }
+   ],
+   "done": "You studied 14 grammar items and read 7 passages and 1 library story."
+  },
+  {
+   "week": 3,
+   "phase": "Build",
+   "title": "Keep the base growing",
+   "tasks": [
+    {
+     "id": "w3-gram",
+     "cat": "grammar",
+     "text": "Study 14 grammar items this week, 2 a day. Read one article per item. Write one sentence of your own for each.",
+     "items": [
+      "n5-016",
+      "n5-040",
+      "n5-060",
+      "n5-065",
+      "n5-070",
+      "n5-076",
+      "n5-005",
+      "n5-017",
+      "n5-048",
+      "n5-072",
+      "n5-014",
+      "n5-067",
+      "n5-027",
+      "n5-077"
+     ],
+     "perDay": 2
+    },
+    {
+     "id": "w3-read",
+     "cat": "read",
+     "text": "Read 1 short passage a day, 7 this week. Find the main point first, then answer the questions.",
+     "links": [
+      {
+       "label": "Dokkai Dojo",
+       "href": "https://yukitchy.github.io/dokkai-dojo/"
+      }
+     ]
+    },
+    {
+     "id": "w3-book",
+     "cat": "read",
+     "text": "Read 1 library story this week: Convenience Store Onigiri. Read it once without stopping.",
+     "links": [
+      {
+       "label": "Convenience Store Onigiri",
+       "href": "https://www.animesenseijp.com/library/n5-konbini-no-onigiri/"
+      }
+     ]
+    },
+    {
+     "id": "w3-kanji",
+     "cat": "kanji",
+     "text": "Learn 3 kanji a day, 21 this week.",
+     "links": [
+      {
+       "label": "Kanji Dojo",
+       "href": "https://yukitchy.github.io/kanji-dojo/"
+      }
+     ]
+    },
+    {
+     "id": "w3-vocab",
+     "cat": "vocab",
+     "text": "Learn 15 new words a day. That is 105 this week. Say each word aloud with one example sentence.",
+     "links": [
+      {
+       "label": "Read for vocabulary: the library",
+       "href": "https://www.animesenseijp.com/library/"
+      }
+     ]
+    },
+    {
+     "id": "w3-listen",
+     "cat": "listen",
+     "text": "Do 10 minutes of listening a day, 70 minutes this week. Use a listening section from the mock in practice mode, with the script open.",
+     "links": [
+      {
+       "label": "Open the mock",
+       "href": "../index.html#n5-mini"
+      }
+     ]
+    }
+   ],
+   "done": "You studied 14 grammar items and read 7 passages and 1 library story."
+  },
+  {
+   "week": 4,
+   "phase": "Checkpoint 1",
+   "title": "First full mock",
+   "tasks": [
+    {
+     "id": "w4-mock",
+     "cat": "mock",
+     "text": "Take the full mock at real exam time, 90 minutes, in one sitting. No pausing.",
+     "links": [
+      {
+       "label": "Full mock",
+       "href": "../index.html#n5-full"
+      }
+     ]
+    },
+    {
+     "id": "w4-score",
+     "cat": "mock",
+     "text": "Write down 3 numbers from the results: LK plus Reading, Listening, Total.",
+     "score": "cp1"
+    },
+    {
+     "id": "w4-weak",
+     "cat": "plan",
+     "text": "Look at the 1 weak area the mock showed. Mark the week with that skill as your Start here week."
+    },
+    {
+     "id": "w4-gram",
+     "cat": "grammar",
+     "text": "Study 14 grammar items this week, 2 a day, after the mock day.",
+     "items": [
+      "n5-080",
+      "n5-008",
+      "n5-032",
+      "n5-055",
+      "n5-075",
+      "n5-029",
+      "n5-068",
+      "n5-083",
+      "n5-000",
+      "n5-012",
+      "n5-041",
+      "n5-042",
+      "n5-036",
+      "n5-061"
+     ],
+     "perDay": 2
+    },
+    {
+     "id": "w4-kanji",
+     "cat": "kanji",
+     "text": "Learn 3 kanji a day, 21 this week.",
+     "links": [
+      {
+       "label": "Kanji Dojo",
+       "href": "https://yukitchy.github.io/kanji-dojo/"
+      }
+     ]
+    },
+    {
+     "id": "w4-vocab",
+     "cat": "vocab",
+     "text": "Learn 15 new words a day. That is 105 this week. Say each word aloud with one example sentence.",
+     "links": [
+      {
+       "label": "Read for vocabulary: the library",
+       "href": "https://www.animesenseijp.com/library/"
+      }
+     ]
+    },
+    {
+     "id": "w4-listen",
+     "cat": "listen",
+     "text": "Do 10 minutes of listening a day, 70 minutes this week. Use a listening section from the mock in practice mode, with the script open.",
+     "links": [
+      {
+       "label": "Open the mock",
+       "href": "../index.html#n5-mini"
+      }
+     ]
+    }
+   ],
+   "done": "You finished the full mock in one sitting and have your 3 scores written down.",
+   "lesson": true
+  },
+  {
+   "week": 5,
+   "phase": "Fix and speed",
+   "title": "Fix what broke",
+   "tasks": [
+    {
+     "id": "w5-gram",
+     "cat": "grammar",
+     "text": "Study 14 new grammar items, 2 a day.",
+     "items": [
+      "n5-079",
+      "n5-056",
+      "n5-009",
+      "n5-003",
+      "n5-021",
+      "n5-025",
+      "n5-039",
+      "n5-062",
+      "n5-063",
+      "n5-004",
+      "n5-010",
+      "n5-015",
+      "n5-020",
+      "n5-033"
+     ],
+     "perDay": 2
+    },
+    {
+     "id": "w5-redo",
+     "cat": "grammar",
+     "text": "Redo the 14 grammar items you got wrong in the mock. Second pass: write 1 new sentence for each.",
+     "links": [
+      {
+       "label": "Free mini mock again",
+       "href": "../index.html#n5-mini"
+      }
+     ]
+    },
+    {
+     "id": "w5-info",
+     "cat": "read",
+     "text": "Do 5 information-search readings against the clock, 4 minutes each. Scan for dates, prices and conditions.",
+     "links": [
+      {
+       "label": "Dokkai Dojo",
+       "href": "https://yukitchy.github.io/dokkai-dojo/"
+      }
+     ]
+    },
+    {
+     "id": "w5-book",
+     "cat": "read",
+     "text": "Read 1 library story at a steady pace: Rainy Day Cat.",
+     "links": [
+      {
+       "label": "Rainy Day Cat",
+       "href": "https://www.animesenseijp.com/library/n5-ame-no-hi-no-neko/"
+      }
+     ]
+    },
+    {
+     "id": "w5-listen",
+     "cat": "listen",
+     "text": "Do 10 minutes of listening a day, 70 minutes this week. Check the script after every clip.",
+     "links": [
+      {
+       "label": "Open the mock",
+       "href": "../index.html#n5-mini"
+      }
+     ]
+    },
+    {
+     "id": "w5-kanji",
+     "cat": "kanji",
+     "text": "Review 21 kanji from earlier weeks. Review only, no new kanji.",
+     "links": [
+      {
+       "label": "Kanji Dojo",
+       "href": "https://yukitchy.github.io/kanji-dojo/"
+      }
+     ]
+    }
+   ],
+   "done": "You redid your wrong grammar, timed 5 readings, and listened 70 minutes."
+  },
+  {
+   "week": 6,
+   "phase": "Fix and speed",
+   "title": "Get faster",
+   "tasks": [
+    {
+     "id": "w6-gram",
+     "cat": "grammar",
+     "text": "Study 14 new grammar items, 2 a day.",
+     "items": [
+      "n5-035",
+      "n5-043",
+      "n5-046",
+      "n5-047",
+      "n5-050",
+      "n5-051",
+      "n5-053",
+      "n5-054",
+      "n5-058",
+      "n5-059",
+      "n5-074",
+      "n5-078",
+      "n5-081",
+      "n5-082"
+     ],
+     "perDay": 2
+    },
+    {
+     "id": "w6-redo",
+     "cat": "grammar",
+     "text": "Redo the 14 grammar items you got wrong in the mock. Second pass: write 1 new sentence for each.",
+     "links": [
+      {
+       "label": "Free mini mock again",
+       "href": "../index.html#n5-mini"
+      }
+     ]
+    },
+    {
+     "id": "w6-info",
+     "cat": "read",
+     "text": "Do 5 information-search readings against the clock, 4 minutes each. Scan for dates, prices and conditions.",
+     "links": [
+      {
+       "label": "Dokkai Dojo",
+       "href": "https://yukitchy.github.io/dokkai-dojo/"
+      }
+     ]
+    },
+    {
+     "id": "w6-book",
+     "cat": "read",
+     "text": "Read 1 library story at a steady pace: Convenience Store Onigiri.",
+     "links": [
+      {
+       "label": "Convenience Store Onigiri",
+       "href": "https://www.animesenseijp.com/library/n5-konbini-no-onigiri/"
+      }
+     ]
+    },
+    {
+     "id": "w6-listen",
+     "cat": "listen",
+     "text": "Do 10 minutes of listening a day, 70 minutes this week. Check the script after every clip.",
+     "links": [
+      {
+       "label": "Open the mock",
+       "href": "../index.html#n5-mini"
+      }
+     ]
+    },
+    {
+     "id": "w6-kanji",
+     "cat": "kanji",
+     "text": "Review 21 kanji from earlier weeks. Review only, no new kanji.",
+     "links": [
+      {
+       "label": "Kanji Dojo",
+       "href": "https://yukitchy.github.io/kanji-dojo/"
+      }
+     ]
+    }
+   ],
+   "done": "You redid your wrong grammar, timed 5 readings, and listened 70 minutes."
+  },
+  {
+   "week": 7,
+   "phase": "Fix and speed",
+   "title": "Hold the line",
+   "tasks": [
+    {
+     "id": "w7-redo",
+     "cat": "grammar",
+     "text": "Redo the 14 grammar items you got wrong in the mock. Second pass: write 1 new sentence for each.",
+     "links": [
+      {
+       "label": "Free mini mock again",
+       "href": "../index.html#n5-mini"
+      }
+     ]
+    },
+    {
+     "id": "w7-info",
+     "cat": "read",
+     "text": "Do 5 information-search readings against the clock, 4 minutes each. Scan for dates, prices and conditions.",
+     "links": [
+      {
+       "label": "Dokkai Dojo",
+       "href": "https://yukitchy.github.io/dokkai-dojo/"
+      }
+     ]
+    },
+    {
+     "id": "w7-book",
+     "cat": "read",
+     "text": "Read 1 library story at a steady pace: Sunday Bakery.",
+     "links": [
+      {
+       "label": "Sunday Bakery",
+       "href": "https://www.animesenseijp.com/library/n5-nichiyoubi-no-panya/"
+      }
+     ]
+    },
+    {
+     "id": "w7-listen",
+     "cat": "listen",
+     "text": "Do 10 minutes of listening a day, 70 minutes this week. Check the script after every clip.",
+     "links": [
+      {
+       "label": "Open the mock",
+       "href": "../index.html#n5-mini"
+      }
+     ]
+    },
+    {
+     "id": "w7-kanji",
+     "cat": "kanji",
+     "text": "Review 21 kanji from earlier weeks. Review only, no new kanji.",
+     "links": [
+      {
+       "label": "Kanji Dojo",
+       "href": "https://yukitchy.github.io/kanji-dojo/"
+      }
+     ]
+    }
+   ],
+   "done": "You redid your wrong grammar, timed 5 readings, and listened 70 minutes."
+  },
+  {
+   "week": 8,
+   "phase": "Checkpoint 2",
+   "title": "Second full mock",
+   "tasks": [
+    {
+     "id": "w8-mock",
+     "cat": "mock",
+     "text": "Take the full mock again at real exam time, 90 minutes. It is the same questions, so the score is not the point. The time practice is.",
+     "links": [
+      {
+       "label": "Full mock",
+       "href": "../index.html#n5-full"
+      }
+     ]
+    },
+    {
+     "id": "w8-score",
+     "cat": "mock",
+     "text": "Write down 3 numbers from the results: LK plus Reading, Listening, Total.",
+     "score": "cp2"
+    },
+    {
+     "id": "w8-redo",
+     "cat": "grammar",
+     "text": "Redo 10 questions you still miss. Say why each wrong choice is wrong."
+    },
+    {
+     "id": "w8-listen",
+     "cat": "listen",
+     "text": "Do 10 minutes of listening a day, 70 minutes this week. Check the script after every clip.",
+     "links": [
+      {
+       "label": "Open the mock",
+       "href": "../index.html#n5-mini"
+      }
+     ]
+    }
+   ],
+   "done": "You finished the second mock and compared your 3 numbers with Checkpoint 1.",
+   "lesson": true
+  },
+  {
+   "week": 9,
+   "phase": "Taper",
+   "title": "Light and steady",
+   "tasks": [
+    {
+     "id": "w9-notebook",
+     "cat": "review",
+     "text": "Read your mistake notebook for 20 minutes a day, 140 minutes this week. Add nothing new."
+    },
+    {
+     "id": "w9-sleep",
+     "cat": "plan",
+     "text": "Go to bed at the same time on all 7 nights."
+    },
+    {
+     "id": "w9-listen",
+     "cat": "listen",
+     "text": "Do 10 minutes of easy listening a day, 70 minutes this week.",
+     "links": [
+      {
+       "label": "Open the mock",
+       "href": "../index.html#n5-mini"
+      }
+     ]
+    },
+    {
+     "id": "w9-nonew",
+     "cat": "plan",
+     "text": "Start 0 new grammar, 0 new words, 0 new kanji. New material now only creates worry."
+    }
+   ],
+   "done": "You read the notebook every day and slept on schedule."
+  },
+  {
+   "week": 10,
+   "phase": "Test day",
+   "title": "Last 2 days and the test",
+   "tasks": [
+    {
+     "id": "w10-bag",
+     "cat": "plan",
+     "text": "Pack 5 things the night before: admission ticket, photo ID, HB pencils, eraser, a watch that makes no sound. The organizer's notice comes first."
+    },
+    {
+     "id": "w10-route",
+     "cat": "plan",
+     "text": "Check the route to the test room once, and plan to arrive 30 minutes early."
+    },
+    {
+     "id": "w10-flow",
+     "cat": "plan",
+     "text": "Read the section flow below once. Know how many seconds you have per question in each of the 3 sections."
+    },
+    {
+     "id": "w10-rest",
+     "cat": "review",
+     "text": "Skim the mistake notebook for 15 minutes, then stop for the day."
+    }
+   ],
+   "done": "Your bag is packed and you know the 3 sections by heart.",
+   "testday": true
+  }
+ ],
+ "sources": [
+  [
+   "Test sections and times",
+   "https://www.jlpt.jp/e/guideline/testsections.html"
+  ],
+  [
+   "Scoring and results",
+   "https://www.jlpt.jp/e/guideline/results.html"
+  ],
+  [
+   "Sample questions",
+   "https://www.jlpt.jp/e/samples/forlearners.html"
+  ]
+ ]
+}
