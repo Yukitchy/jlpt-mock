@@ -163,12 +163,18 @@ function render(){
   ${it.stem?`<div class="stem">${ruby(it.stem)}</div>`:''}
   ${it.c.map((c,j)=>`<button class="choice${ans===j?' sel':''}" data-j="${j}" aria-pressed="${ans===j}"><b>${j+1}</b><span>${ruby(c)}</span></button>`).join('')}</div>
   <div class="row"><button class="ghost" id="pv" ${qi?'':'disabled'}>← Prev</button><button class="ghost" id="nt" ${qi<n-1?'':'disabled'}>Next →</button></div>
-  <div class="nav">${s.items.map((x,i)=>`<button data-i="${i}" class="${A[x.id]!==undefined?'done':'todo'}${i===qi?' cur':''}" aria-label="Question ${i+1}${A[x.id]!==undefined?'':' unanswered'}">${i+1}</button>`).join('')}</div>
-  <p class="mute">Blue = answered · dot = not answered yet</p>
+  <div class="meter"><div class="meter-bar"><i style="width:${Math.round(100*done/n)}%"></i><b style="left:${Math.round(100*qi/n)}%"></b></div><p class="mute meter-txt">${done} of ${n} answered, ${n-done} left<span class="keys">Keys: 1 to 4 answer, arrows move</span></p>
   <button id="fin" data-w>${si+1<SECT.length?'Finish this section':'Finish exam'}</button>`;
   app.querySelectorAll('.choice').forEach(b=>b.onclick=()=>{A[it.id]=+b.dataset.j;render()});
-  app.querySelectorAll('.nav button').forEach(b=>b.onclick=()=>{qi=+b.dataset.i;render()});
   $('#pv').onclick=()=>{qi--;render()};$('#nt').onclick=()=>{qi++;render()};
+  if(!window._keys){window._keys=1;document.addEventListener('keydown',e=>{
+    if(e.metaKey||e.ctrlKey||e.altKey||/^(INPUT|TEXTAREA|SELECT)$/.test(e.target.tagName))return;
+    const cs=app.querySelectorAll('.choice');if(!cs.length)return; // only on a question screen
+    const k=e.key;
+    if(/^[1-9]$/.test(k)&&cs[+k-1]){cs[+k-1].click();e.preventDefault()}
+    else if(k==='ArrowRight'||k==='Enter'){const b=$('#nt');if(b&&!b.disabled){b.click();e.preventDefault()}}
+    else if(k==='ArrowLeft'){const b=$('#pv');if(b&&!b.disabled){b.click();e.preventDefault()}}
+  })}
   $('#rbt').onchange=e=>setRuby(e.target.checked);
   // two-tap finish (confirm() dialogs are suppressed inside the artifact viewer)
   $('#fin').onclick=()=>{const b=$('#fin');if(b.dataset.arm){clearTimeout(b._t);finishSection(false);return}

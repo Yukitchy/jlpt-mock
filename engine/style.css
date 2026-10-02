@@ -93,3 +93,8 @@ a.lv-full{display:block;margin-top:8px}.st-meta{font-size:13px;color:var(--mute)
 button.arm,.btn.arm{background:#1f1b17;border-color:#1f1b17}
 
 .st-free{background:var(--tint);border-radius:12px;padding:10px 14px;font-weight:700;font-size:15px}
+.keys{display:none;margin-left:10px}@media(hover:hover) and (pointer:fine){.keys{display:inline}}
+.meter{margin:12px 0}.meter-bar{position:relative;height:12px;background:var(--line);border-radius:6px;overflow:visible}
+.meter-bar i{display:block;height:100%;background:var(--blue);border-radius:6px}
+.meter-bar b{position:absolute;top:-4px;width:3px;height:20px;background:var(--accent);border-radius:2px;margin-left:-1px}
+.meter-txt{margin:6px 0 0}
