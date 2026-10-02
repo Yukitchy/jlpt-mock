@@ -101,3 +101,4 @@ button.arm,.btn.arm{background:#1f1b17;border-color:#1f1b17}
 .lv-row{display:flex;align-items:center;justify-content:space-between;gap:10px;width:100%;min-height:52px;padding:8px 12px;border:2px solid rgba(255,255,255,.55);border-radius:12px;background:rgba(255,255,255,.08);color:#fff;text-align:left;text-decoration:none;font:inherit;cursor:pointer}
 .lv-row b{display:block;font-size:16px;line-height:1.2}.lv-row small{display:block;font-size:13px;opacity:.85;margin-top:2px}
 .lv-row i{font-style:normal;font-size:20px;font-weight:700;flex:none}
+.why.locked{background:var(--tint);color:#4a443c}

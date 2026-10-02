@@ -112,6 +112,14 @@ function beginSection(){
   tick=setInterval(()=>{const t=$('#tm');if(!t)return;const left=endAt-Date.now();t.textContent=mmss(left);t.classList.toggle('low',left<60000);if(left<=0)finishSection(true)},250);
   render();
 }
+
+// review list shared by results() and the freemium paywall. explainFirst = how many items show why/ng (Infinity = all)
+function reviewHTML(items,explainFirst){let n=0;return items.map(it=>{n++;const a=A[it.id],good=a===it.a,show=n<=explainFirst;
+  return `<div class="card rv ${good?'ok':'bad'}"><b>Q${n}</b> ${good?'✓ Correct':a===undefined?'✗ Not answered':'✗ Incorrect'}
+  ${it.passage?`<div class="passage">${ruby(it.passage)}</div>`:''}${it.stem?`<div class="stem">${ruby(it.stem)}</div>`:''}
+  ${it.c.map((c,j)=>`<div class="opt${j===it.a?' right':j===a?' wrong':''}"><b>${j+1}.</b> ${ruby(c)}${j===it.a?' ✓ correct answer':''}${j===a?' ← your answer':''}${show&&it.ng&&it.ng[j]?`<br><span class="mute">${esc(it.ng[j])}</span>`:''}</div>`).join('')}
+  ${show&&it.why?`<div class="why"><b>Why:</b> ${esc(it.why)}</div>`:show?'':`<div class="why locked">Why each choice is right or wrong: in the pack.</div>`}
+  ${show&&it.script?`<div class="script"><b>Audio script</b><br>${it.script.map(l=>`${esc(l.v)}: ${ruby(l.t)}`).join('<br>')}</div>`:''}</div>`}).join('')}
 function finishSection(auto){
   clearInterval(tick);Object.values(AUD).forEach(a=>{try{a.el.pause()}catch(e){}});
   if(MODE==='full'&&!UNLOCKED&&si+1>=FREE_SECTIONS){
@@ -119,8 +127,12 @@ function finishSection(auto){
     app.innerHTML=`<div class="brk"><p class="brk-k">${auto?'Time is up':'Section 1 finished'}</p>
     <h1 class="brk-h">${right} of ${items.length}</h1><p class="brk-closed">correct in ${esc(SECT[si].title)}</p>
     <div class="brk-next"><span>Unlock the rest</span><b>${SECT.slice(FREE_SECTIONS).map(x=>esc(x.title)).join(' and ')}</b><small>plus the explanation for every answer choice, in this section too</small></div>
-    <a class="st-go" href="${esc(CTA_URL)}#${LEVEL}">Get the ${LEVEL.toUpperCase()} pack</a>
-    <p class="mute" style="margin-top:14px">Already bought? Open the link from your email on this phone, then come back.</p></div>`;
+    <a class="btn st-go" href="${esc(CTA_URL)}#${LEVEL}">Get the ${LEVEL.toUpperCase()} pack</a>
+    <p class="mute" style="margin-top:14px">Already bought? Open the link from your email on this phone, then come back.</p></div>
+    <h2>Review your ${items.length} answers</h2><p class="mute">Correct answers for all ${items.length}. The full explanation is shown for the first 5 here, and for every question in the pack.</p>
+    <div id="rv">${reviewHTML(items,5)}</div>
+    <a class="btn st-go" href="${esc(CTA_URL)}#${LEVEL}" style="margin-top:16px">Unlock the rest</a>`;
+    window.scrollTo(0,0);
     return;
   }
   if(si+1<SECT.length){
