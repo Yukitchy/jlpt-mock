@@ -56,7 +56,6 @@ body{background:var(--bg)}
 .lv .btn{width:100%;background:#fff;color:var(--ink2);border-color:#fff;font-size:16px}
 .lv.a .btn{color:var(--accent)}
 .lv-note{font-size:13px;margin:6px 0 14px;opacity:.85}
-.lv-full{background:transparent;border:0;color:#fff;text-decoration:underline;text-underline-offset:4px;font-size:14px;font-weight:600;min-height:44px;padding:0;text-align:left;cursor:pointer}
 .facts{list-style:none;margin:26px 0 8px;padding:0;display:grid;gap:14px}
 .facts li{display:flex;gap:14px;align-items:center}
 .facts b{flex:none;width:64px;font:900 44px/1 system-ui,sans-serif;color:var(--accent);text-align:center;font-variant-numeric:tabular-nums}
@@ -65,7 +64,6 @@ body{background:var(--bg)}
 .st-head{display:flex;align-items:center;gap:14px;margin:6px 0 18px}
 .st-lv{font:900 64px/1 system-ui,sans-serif;color:#fff;background:var(--accent);border-radius:18px;padding:12px 16px;letter-spacing:-.03em}
 .st-kind{font-size:22px;font-weight:900;margin:0;line-height:1.2}
-a.lv-full{display:block;margin-top:8px}.st-meta{font-size:13px;color:var(--mute);margin:4px 0 0}
 .st-nums{display:grid;grid-template-columns:repeat(3,1fr);gap:8px;margin-bottom:18px}
 .st-nums div{background:var(--tint);border-radius:14px;padding:12px 6px;text-align:center}
 .st-nums b{display:block;font:900 34px/1 system-ui,sans-serif;color:var(--accent);font-variant-numeric:tabular-nums}
@@ -98,3 +96,8 @@ button.arm,.btn.arm{background:#1f1b17;border-color:#1f1b17}
 .meter-bar i{display:block;height:100%;background:var(--blue);border-radius:6px}
 .meter-bar b{position:absolute;top:-4px;width:3px;height:20px;background:var(--accent);border-radius:2px;margin-left:-1px}
 .meter-txt{margin:6px 0 0}
+
+.lv-rows{display:grid;gap:8px;margin-top:4px}
+.lv-row{display:flex;align-items:center;justify-content:space-between;gap:10px;width:100%;min-height:52px;padding:8px 12px;border:2px solid rgba(255,255,255,.55);border-radius:12px;background:rgba(255,255,255,.08);color:#fff;text-align:left;text-decoration:none;font:inherit;cursor:pointer}
+.lv-row b{display:block;font-size:16px;line-height:1.2}.lv-row small{display:block;font-size:13px;opacity:.85;margin-top:2px}
+.lv-row i{font-style:normal;font-size:20px;font-weight:700;flex:none}

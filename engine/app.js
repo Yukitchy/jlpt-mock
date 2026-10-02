@@ -62,8 +62,9 @@ function menu(){
     <p class="lv-sub">${FACTS[l].lv}</p>
     <button class="btn lv-go" data-l="${l}" data-m="mini">Try the free mini mock</button>
     <p class="lv-note">20 questions, about 20 minutes. Score and weak spots at the end.</p>
-    <button class="lv-full" data-l="${l}" data-m="full">Full mock exam: ${FACTS[l].q} questions, ${Math.floor(FACTS[l].min/60)}h ${FACTS[l].min%60}m</button>
-    <a class="lv-full" href="plan/plan.html#${l}">${l.toUpperCase()} study plan: week by week until December 6</a></div></section>`;
+    <div class="lv-rows">
+    <button class="lv-row" data-l="${l}" data-m="full"><span><b>Full mock exam</b><small>${FACTS[l].q} questions, ${Math.floor(FACTS[l].min/60)}h ${FACTS[l].min%60}m. Section 1 is free.</small></span><i>&rarr;</i></button>
+    <a class="lv-row" href="plan/plan.html#${l}"><span><b>Study plan</b><small>Week by week until December 6</small></span><i>&rarr;</i></a></div></div></section>`;
   app.innerHTML=`<header class="hero">${days>0?`<div class="hero-days"><span class="hero-n">${days}</span><span class="hero-u">days until the<br>December 6 JLPT</span></div>`:''}
     <h1 class="hero-h">Find your weak spots<br>before exam day.</h1>
     <p class="hero-p">Real exam format, real timing, listening included. Every answer choice is explained.</p></header>
