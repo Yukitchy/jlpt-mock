@@ -1,0 +1,168 @@
+<!doctype html>
+<html lang="en" data-lv="n4"><head><meta charset="utf-8"><meta name="robots" content="noindex">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>JLPT N4 mock exam: find your weak spots before December 6</title>
+<meta name="description" content="Take section 1 of a full-length JLPT N4 mock on your phone, free. Real timing, listening included. Your score and the three skills to study first.">
+<link rel="icon" href="../favicon.svg">
+<style>
+:root{--bg:#fffaf0;--ink:#222;--ink2:#1f1b17;--mute:#5f574c;--line:#e0d6c2;--accent:#e8412c;--tint:#ffe7e1;--ease:cubic-bezier(.22,1,.36,1)}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.6 system-ui,-apple-system,"Hiragino Sans","Noto Sans JP",sans-serif;-webkit-font-smoothing:antialiased}
+.wrap{max-width:720px;margin:0 auto;padding:0 16px}
+h1,h2{color:var(--ink2);font-weight:900;letter-spacing:-.01em;text-wrap:balance;margin:0}
+h1{font-size:clamp(32px,9vw,48px);line-height:1.1}
+h2{font-size:clamp(26px,7vw,34px);line-height:1.18;margin-bottom:14px}
+p{margin:0 0 12px;text-wrap:pretty}
+a{color:var(--accent)}
+section{padding:48px 0 0}
+.eyebrow{font-size:14px;font-weight:800;letter-spacing:.08em;text-transform:uppercase;color:var(--accent);margin:0 0 6px}
+.lead{font-size:17px;color:#4a443c;max-width:34em}
+.btn{font:inherit;min-height:56px;padding:12px 20px;border-radius:14px;border:0;background:var(--accent);color:#fff;font-weight:800;font-size:17px;text-decoration:none;display:flex;align-items:center;justify-content:center;gap:10px;transition:transform .12s var(--ease)}
+.btn:hover{transform:translateY(-2px)}
+.btn:active{transform:translateY(0) scale(.98)}
+.btn svg{width:20px;height:20px;flex:none}
+.fine{font-size:14px;color:var(--mute);margin:10px 0 0}
+:focus-visible{outline:3px solid var(--accent);outline-offset:3px}
+
+/* hero: the days number is the one big thing */
+.hero{padding:28px 0 8px}
+.days{display:flex;align-items:flex-end;gap:14px;margin:0 0 10px}
+.days b{font:900 clamp(104px,32vw,160px)/.8 system-ui,-apple-system,sans-serif;color:var(--accent);letter-spacing:-.04em;font-variant-numeric:tabular-nums}
+.days span{font-size:15px;font-weight:700;line-height:1.35;padding-bottom:8px;color:var(--ink2)}
+.hero h1{margin:0 0 12px}
+.hero .lead{margin-bottom:22px}
+.alt{display:inline-block;min-height:44px;padding:10px 0;font-weight:700;font-size:15px}
+
+/* the reader's own words */
+.you{list-style:none;margin:0;padding:0;display:grid;gap:14px}
+.you li{font-size:19px;font-weight:700;line-height:1.4;color:var(--ink2);padding-left:18px;border-left:5px solid var(--accent)}
+.you+p{margin-top:18px;font-size:17px}
+
+/* real screens on a dark band */
+.screens{background:var(--ink2);color:#fff;margin:48px calc(50% - 50vw) 0;padding:40px 0 36px}
+.screens h2{color:#fff}
+.screens .sub{color:#d9d2c7;font-size:16px;margin-bottom:22px;max-width:34em}
+.shots{display:flex;gap:14px;overflow-x:auto;scroll-snap-type:x mandatory;padding:4px 16px 12px;margin:0 -16px;-webkit-overflow-scrolling:touch;scrollbar-width:none}
+.shots::-webkit-scrollbar{display:none}
+.shots figure{flex:0 0 76%;max-width:300px;scroll-snap-align:start;margin:0}
+.shots img{width:100%;height:auto;display:block;border-radius:22px;background:#fff}
+.shots figcaption{font-size:15px;font-weight:700;margin-top:10px;color:#fff}
+.shots figcaption small{display:block;font-weight:500;color:#d9d2c7;font-size:14px}
+@media(min-width:700px){.shots{overflow:visible;margin:0;padding:4px 0 0}.shots figure{flex:1;max-width:none}.screens{padding:56px 0 48px}}
+
+/* three verbs, not three steps */
+.how{list-style:none;margin:0;padding:0;display:grid;gap:18px}
+.how li{display:grid;grid-template-columns:44px 1fr;gap:14px;align-items:start}
+.how i{width:44px;height:44px;border-radius:50%;background:var(--accent);color:#fff;font:900 20px/44px system-ui,sans-serif;text-align:center;font-style:normal}
+.how b{display:block;font-size:18px;color:var(--ink2);line-height:1.3}
+.how span{display:block;color:#4a443c;font-size:15px;margin-top:2px}
+
+/* numbers: label small, number huge */
+.nums{display:grid;grid-template-columns:1fr 1fr;gap:0 24px;margin:0;border-top:1px solid var(--line)}
+.nums div{padding:18px 0 16px;border-bottom:1px solid var(--line)}
+.nums b{display:block;font:900 60px/1 system-ui,sans-serif;color:var(--accent);letter-spacing:-.03em;font-variant-numeric:tabular-nums}
+.nums b small{font-size:20px;font-weight:800;letter-spacing:0;margin-left:4px;color:var(--ink2)}
+.nums span{display:block;font-size:15px;font-weight:700;line-height:1.35;margin-top:8px;color:var(--ink2)}
+@media(min-width:600px){.nums{grid-template-columns:repeat(4,1fr)}}
+
+/* the one place the price appears */
+.after{border-top:1px solid var(--line);padding-top:36px}
+.after p{max-width:36em}
+.after .pr{font-size:17px}
+.after .pr b{color:var(--accent);font-size:22px}
+
+.who p{max-width:36em}
+.who .name{font-weight:800;color:var(--ink2)}
+
+.last{background:var(--tint);border-radius:22px;padding:28px 20px 24px;margin-top:48px}
+.last h2{margin-bottom:8px}
+.last p{font-size:16px;color:#4a443c;margin-bottom:18px}
+
+footer{margin:40px 0 56px;font-size:14px;color:var(--mute);line-height:1.6}
+footer a{margin-right:14px;white-space:nowrap}
+@media(prefers-reduced-motion:reduce){*{transition:none!important;scroll-behavior:auto!important}}
+</style></head><body>
+<main class="wrap">
+
+<header class="hero">
+<p class="eyebrow">JLPT N4, Sunday December 6, 2026</p>
+<div class="days" id="days" hidden><b>0</b><span>days until<br>the test</span></div>
+<h1>Where do you stand for JLPT N4 right now?</h1>
+<p class="lead">Take section 1 of a full-length mock on your phone, free. 25 minutes, the real time limit. You get a score and the three skills to study first.</p>
+<a class="btn" href="../index.html#n4-full">Start section 1 free <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a>
+<p class="fine">No sign-up. Nothing to install. Works in this browser.</p>
+<a class="alt" href="../index.html">Short on time? Try the 20-question mini mock</a>
+</header>
+
+<section>
+<h2>Does this sound like you?</h2>
+<ul class="you">
+<li>I know the grammar list. The reading passages still eat all my time.</li>
+<li>The listening plays once and it's gone. I'm guessing half of it.</li>
+<li>Two months left, and I still don't know what to study first.</li>
+</ul>
+<p>Section 1 answers the last one in 25 minutes. You see which of 14 skills cost you the most points, and the plan tells you what to do about it this week.</p>
+</section>
+
+<section class="screens"><div class="wrap">
+<h2>What you see, on your phone</h2>
+<p class="sub">These are real screens from the N4 mock, not mockups.</p>
+<div class="shots">
+<figure><img src="img/n4-question.webp" alt="A JLPT N4 vocabulary question with four choices and a 25 minute countdown" width="390" height="844" loading="lazy"><figcaption>A question, with the real countdown<small>Furigana on or off. Keys 1 to 4 on a computer.</small></figcaption></figure>
+<figure><img src="img/n4-result.webp" alt="Results screen showing 35 percent, score by section and top three weak spots" width="390" height="844" loading="lazy"><figcaption>Your score, and the 3 skills to fix first<small>Every section scored. Every weak spot named.</small></figcaption></figure>
+<figure><img src="img/n4-plan.webp" alt="JLPT N4 study plan with a 64 day countdown and a week by week checklist" width="390" height="844" loading="lazy"><figcaption>A week-by-week plan to December 6<small>One list a week. Progress saved on your phone.</small></figcaption></figure>
+</div>
+</div></section>
+
+<section>
+<h2>How it works</h2>
+<ol class="how">
+<li><i>1</i><div><b>Open the mock on your phone</b><span>No account. The link above starts it.</span></div></li>
+<li><i>2</i><div><b>Answer section 1 in 25 minutes</b><span>Vocabulary and kanji, 35 questions, the official time limit.</span></div></li>
+<li><i>3</i><div><b>Read your weak spots</b><span>Score by section, three skills to study first, and a plan for the weeks left.</span></div></li>
+</ol>
+</section>
+
+<section>
+<h2>Built on the official format</h2>
+<div class="nums">
+<div><b>100</b><span>questions in the full mock</span></div>
+<div><b>28</b><span>listening clips with audio</span></div>
+<div><b>25<small>min</small></b><span>vocabulary and kanji, as on test day</span></div>
+<div><b>55<small>min</small></b><span>grammar and reading, as on test day</span></div>
+</div>
+<p class="fine">Listening is 35 minutes. Original questions in the same format and timing as the official test, written for N4 learners. Not the official test.</p>
+</section>
+
+<section class="after">
+<h2>Then, only if you want the rest</h2>
+<p>Sections 2 and 3, the 28 listening clips, and the explanation for every answer choice are in the N4 pack.</p>
+<p class="pr">Launch price <b>$9</b>, normally $29, for the first 50 learners. You decide after you have seen section 1. <a href="../buy/index.html#n4">See what is in the pack</a>.</p>
+</section>
+
+<section class="who">
+<h2>Who made this</h2>
+<p><span class="name">Yuuki, Japanese teacher in Tokyo.</span> I teach N5 and N4 learners one-to-one online, and I wrote these questions for them, with the mistakes I see in lessons every week. <a href="https://lessons.animesenseijp.com/">See the lesson site</a>.</p>
+</section>
+
+<div class="last">
+<h2><span class="dn">64</span> days is enough, if you start with the right thing.</h2>
+<p>Twenty-five minutes now tells you what that is.</p>
+<a class="btn" href="../index.html#n4-full">Start section 1 free <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a>
+</div>
+
+<footer>
+<a href="n5.html">Taking N5 instead?</a><a href="../plan/plan.html#n4">N4 study plan</a><a href="https://lessons.animesenseijp.com/">Lessons</a>
+<p>Original questions, not copied from the official test. Scores are a rough guide, not an official result. Not affiliated with the JLPT organisers.</p>
+</footer>
+</main>
+<script>
+(function(){
+  var d=Math.ceil((new Date(2026,11,6)-new Date())/864e5);
+  if(d>0){var e=document.getElementById('days');e.querySelector('b').textContent=d;e.hidden=false;
+    document.querySelectorAll('.dn').forEach(function(x){x.textContent=d})}
+  else{document.querySelector('.last h2').textContent='Test day has passed. The mock still shows you where you stand.'}
+})();
+</script>
+</body></html>
