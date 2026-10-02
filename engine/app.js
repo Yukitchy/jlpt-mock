@@ -128,7 +128,7 @@ function finishSection(auto){
     <h1 class="brk-h">${right} of ${items.length}</h1><p class="brk-closed">correct in ${esc(SECT[si].title)}</p>
     <div class="brk-next"><span>Unlock the rest</span><b>${SECT.slice(FREE_SECTIONS).map(x=>esc(x.title)).join(' and ')}</b><small>plus the explanation for every answer choice, in this section too</small></div>
     <a class="btn st-go" href="${esc(CTA_URL)}#${LEVEL}">Get the ${LEVEL.toUpperCase()} pack</a>
-    <p class="mute" style="margin-top:14px">Already bought? Open the link from your email on this phone, then come back.</p></div>
+    <p class="mute" style="margin-top:14px">Already bought? Open your purchase link on this phone, then come back.</p></div>
     <h2>Review your ${items.length} answers</h2><p class="mute">Correct answers for all ${items.length}. The full explanation is shown for the first 5 here, and for every question in the pack.</p>
     <div id="rv">${reviewHTML(items,5)}</div>
     <a class="btn st-go" href="${esc(CTA_URL)}#${LEVEL}" style="margin-top:16px">Unlock the rest</a>`;
